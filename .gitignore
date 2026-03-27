@@ -1,0 +1,14 @@
+# Ignora i moduli e librerie pesanti
+node_modules/
+
+# Files di log
+*.log
+npm-debug.log*
+
+# Mac OS e sistema
+.DS_Store
+
+# FILE SEGRETI E CREDENZIALI (MOLTO IMPORTANTE)
+.env
+.env.local
+.env.*.local
