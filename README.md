@@ -1,3 +1,6 @@
+Realizzato da Oliva Giuseppepio, email: giuseppepioliva@gmail.com
+
+
 # Soul Society Transceiver 🦋 (12th Division Archives)
 **Soul Society Transceiver** è un'applicazione web moderna e totalmente immersiva progettata per la simulazione e l'esplorazione autonoma del database classificato della Seireitei (Bleach). Ispirata ai terminali asettici dell'ufficio S.R.D.I. (Istituto di Ricerca e Sviluppo), l'app unisce un'interfaccia elegante a un'intelligenza artificiale reattiva con pieno controllo della fedeltà visiva. Con grafiche vettoriali mozzafiato, automazione sui media originali e controllo vocale, il Transceiver rende il mondo di Bleach reale sul tuo schermo.
 
