@@ -1,0 +1,12 @@
+[
+  "Era Antica",
+  "1000 Anni Fa",
+  "200 Anni Fa",
+  "101 Anni Fa",
+  "20 Anni Fa",
+  "Oggi (Inizio Storia)",
+  "Infiltrazione nel Seireitei",
+  "Guerra di Karakura",
+  "17 Mesi Dopo",
+  "La Guerra dei Mille Anni"
+]

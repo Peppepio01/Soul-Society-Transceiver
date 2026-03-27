@@ -78,7 +78,9 @@ const UIController = {
             
             setTimeout(() => {
                 this.appendTypewriterMessage(data.reply, 'bot');
-                this.speak(data.reply);
+                if (!data.reply.includes("ERRORE S.R.D.I")) {
+                    this.speak(data.reply);
+                }
             }, 600); // Artificial terminal processing lag
         } catch (e) {
             this.appendTypewriterMessage("Errore critico di comunicazione col terminale Dipartimento Ricerca.", "bot");
@@ -189,7 +191,7 @@ const UIController = {
         this.elements.eraFilter.addEventListener('change', (e) => {
             const era = e.target.value;
             const allEvents = DataManager.getTimeline();
-            const filtered = era === 'all' ? allEvents : allEvents.filter(ev => ev.era === era);
+            const filtered = era === 'all' ? allEvents : allEvents.filter(ev => ev.era.trim() === era.trim());
             this.renderTimeline(filtered);
         });
     },
@@ -210,8 +212,7 @@ const UIController = {
                         <span>|</span>
                         <span>${ev.faction}</span>
                     </div>
-                    <h4 class="timeline-title">${ev.title}</h4>
-                    <p class="timeline-desc">${ev.description}</p>
+                    <p class="timeline-desc timeline-title">${ev.description}</p>
                 </div>
             `;
             this.elements.timelineContainer.appendChild(item);
