@@ -48,9 +48,11 @@ Essendo l'applicazione spinta da un server backend Node.js locale necessario per
 1. **Clona la repository o scarica il codice sorgente:** 
    ```bash
    git clone https://github.com/Peppepio01/Soul-Society-Transceiver.git
-   cd Soul-Society-Transceiver
+   cd Soul-Society-Transceiver<img width="1886" height="982" alt="Screenshot 2026-03-27 024409" src="https://github.com/user-attachments/assets/b01fcda8-b302-4984-9e68-8f8434e78c2d" />
+
    ```
-2. **Installa le dipendenze:** (Assicurati di avere Node.js installato)
+2. **Installa le dipendenze:** (Assicurati di avere Node.js installato)<img width="1779" height="972" alt="Screenshot 2026-03-27 024413" src="https://github.com/user-attachments/assets/48e5811d-8b38-45db-bee0-49a1621ccb7c" />
+
    ```bash
    npm install
    ```
@@ -74,3 +76,12 @@ Essendo l'applicazione spinta da un server backend Node.js locale necessario per
 * **Micro-Data Extraction:** `python` e librerie HTTP native per raschiare risorse immagine ad alta risoluzione in maniera stealth.
 
 Progetto e Database costruiti interamente come devota simulazione tecnica e narrativa del Gotei 13 e delle opere di Bleach.
+<img width="1755" height="932" alt="Screenshot 2026-03<img width="1755" height="932" alt="Screenshot 2026-03-27 024438" src="https://github.com/user-attachments/assets/bd975e3e-124b-425e-9c92-716b3b6e15d8" />
+<img width="1779" height="972" alt="Screenshot 2026-03-27 024413" src="https://github.com/user-attachments/assets/50d8513a-b685-40a5-94a7-93f9b86d3054" />
+<img width="1886" height="982" alt="Screenshot 2026-03-27 024409" src="https://github.com/user-attachments/assets/324c1a82-8100-40c2-91be-f3040db0e73d" />
+<img width="1344" height="764" alt="Screenshot 2026-03-27 022643" src="https://github.com/user-attachments/assets/8591b067-7ab2-4b34-b61a-a6699a2616ef" />
+<img width="1614" height="922" alt="Screenshot 2026-03-27 021100" src="https://github.com/user-attachments/assets/d54c7b33-180f-49c5-9c6b-e74c879cc09e" />
+<img width="1601" height="922" alt="Screenshot 2026-03-27 021053" src="https://github.com/user-attachments/assets/2c123045-efa8-4c92-bd86-f8962f7d2ec0" />
+<img width="1723" height="842" alt="Screenshot 2026-03-27 021047" src="https://github.com/user-attachments/assets/afbee6b7-867d-4589-8d26-ff091b59546a" />
+<img width="1692" height="928" alt="Screenshot 2026-03-27 021041" src="https://github.com/user-attachments/assets/c62f5bfd-44ad-4372-ad42-8b939aed70d9" />
+-27 024438" src="https://github.com/user-attachments/assets/c43fb4ee-7bc9-4295-92e3-c88a7f990e34" />
