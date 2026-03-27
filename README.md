@@ -1,4 +1,4 @@
-Realizzato da Oliva Giuseppepio, email: giuseppepioliva@gmail.com
+Realizzato da Oliva Giuseppepio email: giuseppepioliva@gmail.com e Francesca Cicciù email:francescacicciu07@gmail.com
 
 
 # Soul Society Transceiver 🦋 (12th Division Archives)
