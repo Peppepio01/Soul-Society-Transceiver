@@ -32,7 +32,7 @@ Conosci perfettamente tutto l'universo di Bleach (Tite Kubo) e hai accesso ai fi
 DATABASE LOCALE (JSON):
 ${JSON.stringify({ 
     characters: db.characters.map(c => ({ name: c.name, faction: c.affiliation, bio: c.bio, powers: c.abilities })),
-    zanpakuto: db.zanpakuto.map(z => ({ name: z.name, owner: z.owner, shikai: z.shikai.description, bankai: z.bankai.description }))
+    zanpakuto: db.zanpakuto.map(z => ({ name: z.name, owner: z.owner, releaseCommand: z.command, details: z.description }))
 })}
 
 REGOLA 1: Usa un roleplay FANATICO a tema Bleach. Parla come un freddo e cinico scienziato della S.R.D.I. Usa termini come Reiatsu, Reishi, Hollowficazione, ecc.
@@ -50,8 +50,8 @@ REGOLA 3: Rispondi direttamente. Non simulare MAI caricamenti ("Analisi in corso
         });
         res.json({ reply: response.text });
     } catch (e) {
-        console.error("Gemini Error:", e);
-        res.json({ reply: "ERRORE S.R.D.I: Le comunicazioni spirituali con i terminali IA sono interrotte." });
+        console.error("\n[Dettagli Errore Sever]:", e.message);
+        res.json({ reply: "ERRORE S.R.D.I: Le comunicazioni spirituali con i terminali IA sono interrotte. \n\n[Dettaglio del log di sistema]: " + String(e.message) });
     }
 });
 app.get('/api/characters', (req, res) => {

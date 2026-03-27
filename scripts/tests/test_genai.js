@@ -1,18 +1,22 @@
 require('dotenv').config();
 const { GoogleGenAI } = require('@google/genai');
 
-const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
-
-async function test() {
+async function testApi() {
+    console.log("Chiave trovata in .env:", !!process.env.GEMINI_API_KEY);
+    if(process.env.GEMINI_API_KEY) {
+        console.log("Lunghezza chiave:", process.env.GEMINI_API_KEY.length);
+    }
+    
     try {
-        console.log("Starting test...");
+        const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
         const response = await ai.models.generateContent({
             model: 'gemini-2.5-flash',
-            contents: "Ciao, prova test."
+            contents: 'Test connection'
         });
-        console.log("Success:", response.text);
-    } catch (e) {
-        console.error("SDK Error:", e);
+        console.log("Risposta API OK:", response.text);
+    } catch (err) {
+        console.error("\n[ERRORE API DETTAGLIATO]:", err);
     }
 }
-test();
+
+testApi();
