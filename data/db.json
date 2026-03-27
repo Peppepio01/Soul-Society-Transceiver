@@ -1,0 +1,2086 @@
+{
+  "characters": [
+    {
+      "id": "aaroniero",
+      "name": "Aaroniero Arruruerie",
+      "image": "assets/characters/aaroniero.jpg",
+      "zanpakuto": "Glotonería",
+      "abilities": [
+        "Assorbimento Hollow"
+      ],
+      "affiliation": "9° Espada",
+      "bio": "L'unico Gillian tra gli Espada, capace di assumere le sembianze e le abilità di Shiba Kaien."
+    },
+    {
+      "id": "allon",
+      "name": "Allon",
+      "image": "assets/characters/allon.jpg",
+      "zanpakuto": "Nessuna",
+      "abilities": [
+        "Forza Bruta"
+      ],
+      "affiliation": "Bestia Chimera",
+      "bio": "Mostro creato combinando le braccia di Mila Rose, Sun-Sun e Apacci."
+    },
+    {
+      "id": "bazz-b",
+      "name": "Bazz-B",
+      "image": "assets/characters/bazz-b.jpg",
+      "zanpakuto": "Nessuna",
+      "abilities": [
+        "The Heat",
+        "Burner Finger"
+      ],
+      "affiliation": "Stern Ritter 'H'",
+      "bio": "Quincy impetuoso capace di manipolare fiamme di calore estremo."
+    },
+    {
+      "id": "byakuya",
+      "name": "Byakuya Kuchiki",
+      "image": "assets/characters/byakuya.jpg",
+      "zanpakuto": "Senbonzakura",
+      "abilities": [
+        "Senka",
+        "Kido"
+      ],
+      "affiliation": "Capitano 6ª Div.",
+      "bio": "Capo della sacra famiglia Kuchiki, fiero e letale nel far rispettare la legge."
+    },
+    {
+      "id": "cain",
+      "name": "Cain",
+      "image": "assets/characters/cain.jpg",
+      "zanpakuto": "N/A",
+      "abilities": [
+        "N/A"
+      ],
+      "affiliation": "N/A",
+      "bio": "Bount minore di scarso rilievo o entità artificiale."
+    },
+    {
+      "id": "chikane-iba",
+      "name": "Chikane Iba",
+      "image": "assets/characters/chikane-iba.jpg",
+      "zanpakuto": "Sconosciuta",
+      "abilities": [
+        "Kendo"
+      ],
+      "affiliation": "Ex Luogotenente 3ª Div.",
+      "bio": "Madre di Tetsuzaemon Iba."
+    },
+    {
+      "id": "chizuru-honsho",
+      "name": "Chizuru Honshō",
+      "image": "assets/characters/chizuru-honsho.jpg",
+      "zanpakuto": "Nessuna",
+      "abilities": [
+        "N/A"
+      ],
+      "affiliation": "Umana",
+      "bio": "Compagna di classe di Orihime, molto estroversa."
+    },
+    {
+      "id": "chojiro",
+      "name": "Chōjirō Sasakibe",
+      "image": "assets/characters/chojiro.jpg",
+      "zanpakuto": "Gonryōmaru",
+      "abilities": [
+        "Fulmine"
+      ],
+      "affiliation": "Luogotenente 1ª Div.",
+      "bio": "Fedele vice-capitano di Yamamoto per oltre 2000 anni."
+    },
+    {
+      "id": "cirucci",
+      "name": "Cirucci Sanderwicci",
+      "image": "assets/characters/cirucci.jpg",
+      "zanpakuto": "Golondrina",
+      "abilities": [
+        "Vibrazione"
+      ],
+      "affiliation": "Privaron Espada (105)",
+      "bio": "Arrancar rimpiazzata che usa un'arma a forma di yoyo gigante con lame."
+    },
+    {
+      "id": "coyote-starrk",
+      "name": "Coyote Starrk",
+      "image": "assets/characters/coyote-starrk.jpg",
+      "zanpakuto": "Los Lobos",
+      "abilities": [
+        "Cero Metralleta"
+      ],
+      "affiliation": "1° Espada",
+      "bio": "Arrancar pigro ma estremamente potente, costretto a dividere la sua anima con Lilynette per la solitudine."
+    },
+    {
+      "id": "cyan-sunsun",
+      "name": "Cyan Sun-Sun",
+      "image": "assets/characters/cyan-sunsun.jpg",
+      "zanpakuto": "Anaconda",
+      "abilities": [
+        "Mura di Serpenti"
+      ],
+      "affiliation": "Fracción di Harribel",
+      "bio": "Arrancar elegante e sempre infastidita dalle compagne."
+    },
+    {
+      "id": "mila-rose",
+      "name": "Franceska Mila Rose",
+      "image": "assets/characters/mila-rose.jpg",
+      "zanpakuto": "Leona",
+      "abilities": [
+        "Forza",
+        "Cero"
+      ],
+      "affiliation": "Fracción di Harribel",
+      "bio": "Guerriera Arrancar dal carattere bellicoso e muscoloso."
+    },
+    {
+      "id": "ganju",
+      "name": "Ganju Shiba",
+      "image": "assets/characters/ganju.jpg",
+      "zanpakuto": "Nessuna",
+      "abilities": [
+        "Magia della Sabbia"
+      ],
+      "affiliation": "Famiglia Shiba",
+      "bio": "Fratello di Kukaku e Kaien, amante dei cinghiali."
+    },
+    {
+      "id": "gantenbainne",
+      "name": "Gantenbainne Mosqueda",
+      "image": "assets/characters/gantenbainne.jpg",
+      "zanpakuto": "Dragra",
+      "abilities": [
+        "Attacchi Rapidi"
+      ],
+      "affiliation": "Privaron Espada (107)",
+      "bio": "Combattente pugile dal forte senso dell'onore (ringraziando sempre Dio)."
+    },
+    {
+      "id": "yamamoto",
+      "name": "Genryūsai Shigekuni Yamamoto",
+      "image": "assets/characters/yamamoto.jpg",
+      "zanpakuto": "Ryūjin Jakka",
+      "abilities": [
+        "Incenerimento",
+        "Zanka no Tachi"
+      ],
+      "affiliation": "Capitano Comandante",
+      "bio": "Il più potente Shinigami millenario, pura fiamma distruttiva."
+    },
+    {
+      "id": "gin",
+      "name": "Gin Ichimaru",
+      "image": "assets/characters/gin.jpg",
+      "zanpakuto": "Shinsō",
+      "abilities": [
+        "Allungamento Rapido",
+        "Veleno"
+      ],
+      "affiliation": "Ex Capitano 3ª Div.",
+      "bio": "Mente calcolatrice dal finto sorriso, traditore segreto per vendicare Rangiku."
+    },
+    {
+      "id": "ginrei",
+      "name": "Ginrei Kuchiki",
+      "image": "assets/characters/ginrei.jpg",
+      "zanpakuto": "Sconosciuta",
+      "abilities": [
+        "Kido"
+      ],
+      "affiliation": "Ex Capitano 6ª Div.",
+      "bio": "Nonno di Byakuya Kuchiki."
+    },
+    {
+      "id": "giriko",
+      "name": "Giriko Kutsuzawa",
+      "image": "assets/characters/giriko.jpg",
+      "zanpakuto": "Nessuna",
+      "abilities": [
+        "Time Tells No Lies"
+      ],
+      "affiliation": "Fullbringer (Xcution)",
+      "bio": "Uomo distinto il cui orologio impone patti temporali inviolabili."
+    },
+    {
+      "id": "grand-fisher",
+      "name": "Grand Fisher",
+      "image": "assets/characters/grand-fisher.jpg",
+      "zanpakuto": "Nessuna",
+      "abilities": [
+        "Esca Umana"
+      ],
+      "affiliation": "Hollow / Arrancar",
+      "bio": "Hollow crudele responsabile dell'assassinio di Masaki Kurosaki."
+    },
+    {
+      "id": "grimmjow",
+      "name": "Grimmjow Jaegerjaques",
+      "image": "assets/characters/grimmjow.jpg",
+      "zanpakuto": "Pantera",
+      "abilities": [
+        "Gran Rey Cero"
+      ],
+      "affiliation": "6° Espada",
+      "bio": "Pantera brutale ed eterno rivale istintivo di Ichigo."
+    },
+    {
+      "id": "go-koga",
+      "name": "Gō Koga",
+      "image": "assets/characters/go-koga.jpg",
+      "zanpakuto": "Dalk (Doll)",
+      "abilities": [
+        "Metallo"
+      ],
+      "affiliation": "Bount",
+      "bio": "Possente guerriero Bount armato di un golem di metallo ragnesco."
+    },
+    {
+      "id": "hachigen",
+      "name": "Hachigen Ushōda",
+      "image": "assets/characters/hachigen.jpg",
+      "zanpakuto": "Sconosciuta",
+      "abilities": [
+        "Kido Spaziale"
+      ],
+      "affiliation": "Vaizard",
+      "bio": "Gigante pacifico, maestro assoluto di barriere e Kido."
+    },
+    {
+      "id": "hanataro",
+      "name": "Hanatarō Yamada",
+      "image": "assets/characters/hanataro.jpg",
+      "zanpakuto": "Hisagomaru",
+      "abilities": [
+        "Cura",
+        "Assorbimento Danni"
+      ],
+      "affiliation": "Ufficiale 4ª Div.",
+      "bio": "Shinigami medico timido ma estremamente coraggioso nei momenti cruciali."
+    },
+    {
+      "id": "hiyori",
+      "name": "Hiyori Sarugaki",
+      "image": "assets/characters/hiyori.jpg",
+      "zanpakuto": "Kubikiri Orochi",
+      "abilities": [
+        "Maschera Hollow"
+      ],
+      "affiliation": "Vaizard",
+      "bio": "Ragazzina irascibile che adora prendere a calci Shinji."
+    },
+    {
+      "id": "ho-ban",
+      "name": "Hō e Ban",
+      "image": "assets/characters/ho-ban.jpg",
+      "zanpakuto": "N/A",
+      "abilities": [
+        "Bount Doll"
+      ],
+      "affiliation": "Bount",
+      "bio": "Gemelli letali armati di bambole acquatiche."
+    },
+    {
+      "id": "ichibe",
+      "name": "Ichibē Hyōsube",
+      "image": "assets/characters/ichibe.jpg",
+      "zanpakuto": "Ichimonji",
+      "abilities": [
+        "Controllo dei Nomi",
+        "Inchiostro"
+      ],
+      "affiliation": "Guardia Reale (Squadra Zero)",
+      "bio": "Colui che dà il vero nome a ogni cosa nella Soul Society."
+    },
+    {
+      "id": "ichigo",
+      "name": "Ichigo Kurosaki",
+      "image": "assets/characters/ichigo.jpg",
+      "zanpakuto": "Zangetsu",
+      "abilities": [
+        "Getsuga Tensho"
+      ],
+      "affiliation": "Shinigami Sostituto",
+      "bio": "Eroe ibrido dalle origini Shinigami, Hollow, Quincy e Fullbringer."
+    },
+    {
+      "id": "ikkaku",
+      "name": "Ikkaku Madarame",
+      "image": "assets/characters/ikkaku.jpg",
+      "zanpakuto": "Hōzukimaru",
+      "abilities": [
+        "Combattimento Lancia"
+      ],
+      "affiliation": "3° Seggio, 11ª Div.",
+      "bio": "Combattente fortissimo che nasconde di possedere il Bankai per non dover lasciare la Divisione di Kenpachi."
+    },
+    {
+      "id": "isane",
+      "name": "Isane Kotetsu",
+      "image": "assets/characters/isane.jpg",
+      "zanpakuto": "Itegumo",
+      "abilities": [
+        "Cura Specialistica"
+      ],
+      "affiliation": "Luogotenente 4ª Div.",
+      "bio": "Vicecapitana di Unohana, timida e di grossa corporatura, eccelle nella guarigione."
+    },
+    {
+      "id": "isshin",
+      "name": "Isshin Kurosaki",
+      "image": "assets/characters/isshin.jpg",
+      "zanpakuto": "Engetsu",
+      "abilities": [
+        "Getsuga Tensho"
+      ],
+      "affiliation": "Famiglia Kurosaki",
+      "bio": "Padre di Ichigo, ex capitano della Decima Divisione che sacrificò i suoi poteri per amore."
+    },
+    {
+      "id": "izuru",
+      "name": "Izuru Kira",
+      "image": "assets/characters/izuru.jpg",
+      "zanpakuto": "Wabisuke",
+      "abilities": [
+        "Raddoppio Peso"
+      ],
+      "affiliation": "Luogotenente 3ª Div.",
+      "bio": "Rappresentante della disperazione emotiva con una Zanpakuto capace di appesantire tutto ciò che colpisce."
+    },
+    {
+      "id": "jackie",
+      "name": "Jackie Tristan",
+      "image": "assets/characters/jackie.jpg",
+      "zanpakuto": "Nessuna",
+      "abilities": [
+        "Dirty Boots"
+      ],
+      "affiliation": "Fullbringer (Xcution)",
+      "bio": "Più i suoi stivali e il suo corpo diventano sporchi, più i suoi calci acquisiscono potenza esplosiva."
+    },
+    {
+      "id": "jin-kariya",
+      "name": "Jin Kariya",
+      "image": "assets/characters/jin-kariya.jpg",
+      "zanpakuto": "Messer (Spada del Vento)",
+      "abilities": [
+        "Controllo Vento",
+        "Rigenerazione"
+      ],
+      "affiliation": "Leader dei Bount",
+      "bio": "Capo inarrestabile dei vampiri succhia-anime (Bount) intento a distruggere la Soul Society."
+    },
+    {
+      "id": "jinta",
+      "name": "Jinta Hanakari",
+      "image": "assets/characters/jinta.jpg",
+      "zanpakuto": "Mazze Pesanti",
+      "abilities": [
+        "Forza Bruta"
+      ],
+      "affiliation": "Urahara Shop",
+      "bio": "Inserviente testa calda della Bottega di Urahara armato di una mazza di ferro gigante."
+    },
+    {
+      "id": "jirobo",
+      "name": "Jirōbō Ikkanzaka",
+      "image": "assets/characters/jirobo.jpg",
+      "zanpakuto": "Tsunzakigarasu",
+      "abilities": [
+        "Lame Volanti"
+      ],
+      "affiliation": "Ex 4° Seggio 7ª Div.",
+      "bio": "Vigliacco arrogante sconfitto aspramente da Uryū nella Soul Society trafitto in molteplici punti per privarlo dei poteri incrociati."
+    },
+    {
+      "id": "jushiro",
+      "name": "Jūshirō Ukitake",
+      "image": "assets/characters/jushiro.jpg",
+      "zanpakuto": "Sōgyo no Kotowari",
+      "abilities": [
+        "Riflessione Kido"
+      ],
+      "affiliation": "Capitano 13ª Div.",
+      "bio": "Capitano dal cuore d'oro, costantemente affetto da tubercolosi e portatore della mano destra del Re delle Anime (Mimihagi)."
+    },
+    {
+      "id": "kaien",
+      "name": "Kaien Shiba",
+      "image": "assets/characters/kaien.jpg",
+      "zanpakuto": "Nejibana",
+      "abilities": [
+        "Manipolazione Acqua"
+      ],
+      "affiliation": "Ex Luogotenente 13ª Div.",
+      "bio": "Grande mentore di Rukia, tragicamente consumato da un Hollow e costringendo Rukia ad ucciderlo in autidifesa per salvare il suo orgoglio."
+    },
+    {
+      "id": "kaname",
+      "name": "Kaname Tōsen",
+      "image": "assets/characters/kaname.jpg",
+      "zanpakuto": "Suzumushi",
+      "abilities": [
+        "Privazione Sensi",
+        "Resurrección"
+      ],
+      "affiliation": "Ex Capitano 9ª Div.",
+      "bio": "Spadaccino cieco guidato dal proprio concetto distorto di giustizia. Segue la ribellione di Aizen tramutandosi in Hollow."
+    },
+    {
+      "id": "karin",
+      "name": "Karin Kurosaki",
+      "image": "assets/characters/karin.jpg",
+      "zanpakuto": "Nessuna",
+      "abilities": [
+        "Visione Spirituale Avanzata"
+      ],
+      "affiliation": "Famiglia Kurosaki",
+      "bio": "Sorella minore pragmatica di Ichigo, dotata di grande sensibilità spirituale e un animo d'acciaio."
+    },
+    {
+      "id": "keigo",
+      "name": "Keigo Asano",
+      "image": "assets/characters/keigo.jpg",
+      "zanpakuto": "Nessuna",
+      "abilities": [
+        "Fuga e Sopravvivenza"
+      ],
+      "affiliation": "Umani",
+      "bio": "L'amico di Ichigo iperattivo e costantemente spaventato dal paranormale, sebbene ne veda gli effetti."
+    },
+    {
+      "id": "kenpachi",
+      "name": "Kenpachi Zaraki",
+      "image": "assets/characters/kenpachi.jpg",
+      "zanpakuto": "Nozarashi",
+      "abilities": [
+        "Ondata di Pressione",
+        "Spaccare Meteoriti"
+      ],
+      "affiliation": "Capitano 11ª Div.",
+      "bio": "Demone del combattimento puro. Più l'avversario è forte, maggiore è la potenza che si concede sfoderare."
+    },
+    {
+      "id": "kensei",
+      "name": "Kensei Muguruma",
+      "image": "assets/characters/kensei.jpg",
+      "zanpakuto": "Tachikaze",
+      "abilities": [
+        "Esplosioni ad Impatto"
+      ],
+      "affiliation": "Capitano 9ª Div. / Vaizard",
+      "bio": "Militare rigoroso armato di pugnali del vento che detonano in potenti Bankai a forma di tirapugni esplosivi."
+    },
+    {
+      "id": "kirio",
+      "name": "Kirio Hikifune",
+      "image": "assets/characters/kirio.jpg",
+      "zanpakuto": "Mestolo Spirituale",
+      "abilities": [
+        "Costruzione Cibo Spirituale",
+        "Gabbie Arboree"
+      ],
+      "affiliation": "Guardia Reale (Squadra Zero)",
+      "bio": "Sviluppatrice delle Anime Artificiali in pillole; padroneggia la manipolazione della struttura cellulare spiritronica mangiando quantità inumane."
+    },
+    {
+      "id": "kisuke",
+      "name": "Kisuke Urahara",
+      "image": "assets/characters/kisuke.jpg",
+      "zanpakuto": "Benihime",
+      "abilities": [
+        "Kido Massimi Livelli",
+        "Genio Incalcolabile"
+      ],
+      "affiliation": "Ex Capitano 12ª Div.",
+      "bio": "L'uomo più intelligente di tutta la Soul Society, esiliato tra gli umani. Niente gli sfugge mai. Il creatore dell'Hogyoku."
+    },
+    {
+      "id": "kon",
+      "name": "Kon",
+      "image": "assets/characters/kon.jpg",
+      "zanpakuto": "Nessuna",
+      "abilities": [
+        "Pillola Mod.",
+        "Calci Supremi (Konso)"
+      ],
+      "affiliation": "Mod Soul",
+      "bio": "Anima Replicata da combattimento bloccata in un leone di peluche. Elemento comico ed emulatore del corpo umano di Ichigo."
+    },
+    {
+      "id": "koga",
+      "name": "Kōga Kuchiki",
+      "image": "assets/characters/koga.jpg",
+      "zanpakuto": "Muramasa",
+      "abilities": [
+        "Materializzazione Spiriti della Spada"
+      ],
+      "affiliation": "Ribelli",
+      "bio": "Guerriero geniale ma ossessivo del casato Kuchiki che cadde vittima della solitudine provocando la Rivolta delle Zanpakuto."
+    },
+    {
+      "id": "kugo",
+      "name": "Kūgo Ginjō",
+      "image": "assets/characters/kugo.jpg",
+      "zanpakuto": "Cross of Scaffold",
+      "abilities": [
+        "Furto Abilità Fullbring",
+        "Bankai Sintetico"
+      ],
+      "affiliation": "Leader di Xcution",
+      "bio": "Il vero Primo Shinigami Sostituto, incattivitosi contro la gerarchia della Soul Society per paranoia ed isolamento."
+    },
+    {
+      "id": "kukaku",
+      "name": "Kūkaku Shiba",
+      "image": "assets/characters/kukaku.jpg",
+      "zanpakuto": "Katana Corta",
+      "abilities": [
+        "Soko (Cannone Artiglieria Spaziale)",
+        "Kido a raffica"
+      ],
+      "affiliation": "Capo Clan Shiba",
+      "bio": "Donna vulcanica dotata di un braccio artificale, leader della famiglia Shiba (nobili decaduti). Esperta in esplosivi."
+    },
+    {
+      "id": "lisa",
+      "name": "Lisa Yadōmaru",
+      "image": "assets/characters/lisa.jpg",
+      "zanpakuto": "Haguro Tonbo",
+      "abilities": [
+        "Lancia Ipertrofica",
+        "Maschera Hollow"
+      ],
+      "affiliation": "Vaizard / Capitano 8ª Div.",
+      "bio": "Appassionata (e deviata) lettrice avida. Brandisce un'enorme alabarda distruttiva con estrema disinvoltura formale."
+    },
+    {
+      "id": "love",
+      "name": "Love Aikawa",
+      "image": "assets/characters/love.jpg",
+      "zanpakuto": "Tengumaru",
+      "abilities": [
+        "Maglio Colossale Espulsore Dischi Infuocati"
+      ],
+      "affiliation": "Vaizard",
+      "bio": "Fan accanito dei manga di Jump. Combatte brandendo una kanabo gigantesca avviluppata nel fuoco termico espansivo."
+    },
+    {
+      "id": "luppi",
+      "name": "Luppi Antenor",
+      "image": "assets/characters/luppi.jpg",
+      "zanpakuto": "Trepadora",
+      "abilities": [
+        "Tentacoli Laceranti",
+        "Lame Veloci"
+      ],
+      "affiliation": "Ex 6° Espada",
+      "bio": "Arrancar cinico e sadico rimpiazzo temporaneo di Grimmjow, finché quest'ultimo non torna a prendersi il braccio (e il titolo)."
+    },
+    {
+      "id": "mabashi",
+      "name": "Mabashi",
+      "image": "assets/characters/mabashi.jpg",
+      "zanpakuto": "Ritz (Doll)",
+      "abilities": [
+        "Possessione Fisica di Insetti"
+      ],
+      "affiliation": "Bount",
+      "bio": "Sgherro Bount vestito stravagantemente capace di controllare la mente dei nemici coi semi esplosivi."
+    },
+    {
+      "id": "maki",
+      "name": "Maki Ichinose",
+      "image": "assets/characters/maki.jpg",
+      "zanpakuto": "Nijigasumi",
+      "abilities": [
+        "Magia della Luce Inosservata"
+      ],
+      "affiliation": "Bount (Precedente Shinigami)",
+      "bio": "Ex Ufficiale del Gotei devoto a Kariya, manipola i fotoni luminosi creando spazi disorientanti accecanti totali."
+    },
+    {
+      "id": "marechiyo",
+      "name": "Marechiyo Ōmaeda",
+      "image": "assets/characters/marechiyo.jpg",
+      "zanpakuto": "Gegetsuburi",
+      "abilities": [
+        "Palla Chiodata Massiva"
+      ],
+      "affiliation": "Luogotenente 2ª Div.",
+      "bio": "Shinigami grassoccio, benestante, vigliacco, che in realtà possiede riflessi inaspettatamente acutissimi e devozione verso Sui Feng."
+    },
+    {
+      "id": "masaki",
+      "name": "Masaki Kurosaki",
+      "image": "assets/characters/masaki.jpg",
+      "zanpakuto": "Arco e frecce Heilig Pfeil Quincy",
+      "abilities": [
+        "Blut Vene Infinito (Echt Quincy)"
+      ],
+      "affiliation": "Quincy Madre",
+      "bio": "Madre devota coraggiosa al punto da auto-infettarsi con una minaccia dell'abisso Hollow ('White') pur di assistere uno Shinigami estraneo."
+    },
+    {
+      "id": "mashiro",
+      "name": "Mashiro Kuna",
+      "image": "assets/characters/mashiro.jpg",
+      "zanpakuto": "Sconosciuta",
+      "abilities": [
+        "Calci da Supereroina",
+        "Maschera Hollow Persistente"
+      ],
+      "affiliation": "Vaizard (Co-Luogotenente)",
+      "bio": "Infasidiantemente esuberante e fanciullesca; possedeva la rara virtù di poter stare hollowificata 15 ore ininterrotte prima ancora d'allenamento strutturato vero."
+    },
+    {
+      "id": "mayuri",
+      "name": "Mayuri Kurotsuchi",
+      "image": "assets/characters/mayuri.jpg",
+      "zanpakuto": "Ashisogi Jizō",
+      "abilities": [
+        "Paralisi del respiro",
+        "Sciame di veleno infettivo adattivo autonomo batterico bio-meccanico"
+      ],
+      "affiliation": "Capitano 12ª Div.",
+      "bio": "La personificazione del pragmatismo e del cinismo scientifico nel Gotei 13."
+    },
+    {
+      "id": "mizuiro",
+      "name": "Mizuiro Kojima",
+      "image": "assets/characters/mizuiro.jpg",
+      "zanpakuto": "Nessuna",
+      "abilities": [
+        "Preparazione esplosivi fai-da-te (Bottiglie Molotov)"
+      ],
+      "affiliation": "Umani",
+      "bio": "Ragazzo apparentemente mansueto dai capelli lisci, popolare fra donne adulte, sorprendentemente lucido e spietato in assetti di sopravvivenza caotici contro Divinità pazze."
+    },
+    {
+      "id": "moe",
+      "name": "Moe Shishigawara",
+      "image": "assets/characters/moe.jpg",
+      "zanpakuto": "Nessuna",
+      "abilities": [
+        "Jackpot Knuckle"
+      ],
+      "affiliation": "Fullbringer (Xcution)",
+      "bio": "Tirapiedi delinquente follemente lealista che altera artificialmente la legge matematica della 'fortuna/probabilità' tramite le sue nocche d'ottone speciali numeriche a braccio singolo dritto esplosivo letale fortuito."
+    },
+    {
+      "id": "momo",
+      "name": "Momo Hinamori",
+      "image": "assets/characters/momo.jpg",
+      "zanpakuto": "Tobiume",
+      "abilities": [
+        "Esplosioni Infuocate da Kido a Catena Multipla Sequenziale Lineare Flessibile"
+      ],
+      "affiliation": "Luogotenente 5ª Div.",
+      "bio": "Pugnalata letteralmente sempre; dal profondo amore ingenuo ed illimitato per Aizen, ha una resilienza e una resistenza al trapasso toracico semplicemente sconvolgente quasi grottesca miracolosamente."
+    },
+    {
+      "id": "nanao",
+      "name": "Nanao Ise",
+      "image": "assets/characters/nanao.jpg",
+      "zanpakuto": "Shinken Hakkyōken",
+      "abilities": [
+        "Specchio della Deità (Maledizione Specchiata)"
+      ],
+      "affiliation": "Luogotenente 1ª e 8ª Div.",
+      "bio": "Mente burocratica suprema, l'unica capace di piegare un'eredità perseguitante mortale Divina di una spada del santuario per respingere angeli letterali immuni dal Kido tradizionale noto formalmente."
+    },
+    {
+      "id": "neliel",
+      "name": "Neliel Tu Oderschvank",
+      "image": "assets/characters/neliel.jpg",
+      "zanpakuto": "Gamuza",
+      "abilities": [
+        "Assorbimento Doppio Cero (Cero Doble)",
+        "Lancia da Cavaliere",
+        "Forma Centauro"
+      ],
+      "affiliation": "Ex 3° Espada",
+      "bio": "Arrancar idealista dal senso dell'onore (e amichetta affezionata di Ichigo), la cui testa gravemente contusa la reclude ad uno stato infantile perpetuo instabile temporalesco capriccioso."
+    },
+    {
+      "id": "nemu",
+      "name": "Nemu Kurotsuchi",
+      "image": "assets/characters/nemu.jpg",
+      "zanpakuto": "Nessuna / Combattente Marziale Avanzata Cibernetica",
+      "abilities": [
+        "Assorbimento d'Anima",
+        "Oneri Tossici del Sangue Biologico Artificiale Costruito"
+      ],
+      "affiliation": "Luogotenente 12ª Div.",
+      "bio": "Capolavoro immortale auto-evolutivo (Anima Artificiale Nemuri Gō). Sofre silente per un padre terribile ma lo difende per imperativa bioingegneristica suprema terminale distruttiva finale."
+    },
+    {
+      "id": "nnoitra",
+      "name": "Nnoitra Gilga",
+      "image": "assets/characters/nnoitra.jpg",
+      "zanpakuto": "Santa Teresa",
+      "abilities": [
+        "Gerarchia di ferro massima",
+        "6 Braccia Rigenerabili Istantaneamente Armate Letalmente Falcianti"
+      ],
+      "affiliation": "5° Espada",
+      "bio": "Maschilista insaziabile, vuole disperatamente perire tranciato nella clessidra della battaglia; corazza tanto possente che perfino le lami dei capitani vi s'infrangono o stridono in scintille violente."
+    },
+    {
+      "id": "orihime",
+      "name": "Orihime Inoue",
+      "image": "assets/characters/orihime.jpg",
+      "zanpakuto": "Shun Shun Rikka (Fate del Rifiuto)",
+      "abilities": [
+        "Rifiuto dei Fenomeni (Healing Totale, scudo specchio respingente, e disintegrazione del limite spazio-temporale reietto)"
+      ],
+      "affiliation": "Umani (Fullbring inibito)",
+      "bio": "Cuore puro pulsante, ragazza innamorata la cui negazione e l'alterazione di ciò che decreta gli Dei diviene letteralmente e assurdamente reale e fattuale guarigione estrema oltre la biologia organica in un guscio sacro protetto."
+    },
+    {
+      "id": "renji",
+      "name": "Renji Abarai",
+      "image": "assets/characters/renji.jpg",
+      "zanpakuto": "Zabimaru (Shikai Frustante)",
+      "abilities": [
+        "Higa Zekko",
+        "Soo Zabimaru (Vero Nome)"
+      ],
+      "affiliation": "Luogotenente 6ª Div.",
+      "bio": "Anima passionale e turbolenta, non si spezza mai nonostante le infinite sconfitte e vince grazie ad un duro lavoro massicciamente testardo ed un Bankai serpentiforme osseiano ed ustionante primordiale scimmiesco formidabile."
+    },
+    {
+      "id": "retsu",
+      "name": "Retsu Unohana (Yachiru)",
+      "image": "assets/characters/retsu.jpg",
+      "zanpakuto": "Minazuki",
+      "abilities": [
+        "Manta Guarigione Gastrica",
+        "Bankai di Sangue Corrosivo Discioglimento Acido Spaventoso ed Infinito"
+      ],
+      "affiliation": "Capitano 4ª Div. (Originaria 11ª)",
+      "bio": "La primissima incarnazione del titolo di Kenpachi, la criminale diabolica sanguinaria psicopatica peggiore racchiusa dentro vesti di materna dolce cura per guarire per poter tagliare eternamente sempre lo stesso avversario perpetuo ancora. E ancora."
+    },
+    {
+      "id": "riruka",
+      "name": "Riruka Dokugamine",
+      "image": "assets/characters/riruka.jpg",
+      "zanpakuto": "Dollhouse",
+      "abilities": [
+        "Minaturizzazione degli amori/bersagli (Reclusione)"
+      ],
+      "affiliation": "Fullbringer (Xcution)",
+      "bio": "Ragazza tsundere col potere di imprigionare chiunque ritenga adorabile dentro case delle bambole o scatolette soffici costrittive in miniatura irreali claustrofobiche ineluttabili di dipendenza passiva possessiva amorosa adolescenziale frustrante."
+    },
+    {
+      "id": "rukia",
+      "name": "Rukia Kuchiki",
+      "image": "assets/characters/rukia.jpg",
+      "zanpakuto": "Sode no Shirayuki",
+      "abilities": [
+        "Zero Assoluto (-273.15 °C)",
+        "Hakka no Togame"
+      ],
+      "affiliation": "Capitano 13ª Div.",
+      "bio": "Nobile adottiva dal cuore caldo rinchiuso nel ghiaccio. Sfodera il gelo mortale assoluto fermando le sue molecole cellulari azzerando l'entropia del cosmo intero con danze regali letali raggelanti fatali istantanee ed immobili glaciali maestose."
+    },
+    {
+      "id": "rurichiyo",
+      "name": "Rurichiyo Kasumiōji",
+      "image": "assets/characters/rurichiyo.jpg",
+      "zanpakuto": "Nessuna",
+      "abilities": [
+        "Mantenimento Politico"
+      ],
+      "affiliation": "Principessa Famiglia Nobile",
+      "bio": "Principessina viziata dell'anime-fillers scortata costantemente alla salvaguardia tramite spadaccini mercenari Bakkoto difensivi infami e spade corrotte assassine velenose avide d'anime umane prelibate."
+    },
+    {
+      "id": "ryo",
+      "name": "Ryō Utagawa",
+      "image": "assets/characters/ryo.jpg",
+      "zanpakuto": "Fried (Doll Serpente)",
+      "abilities": [
+        "Lame Serpentesche Multiple Illusive Struscianti Veloci ed Olografiche"
+      ],
+      "affiliation": "Bount",
+      "bio": "Ambizioso Bount intento a spodestare Kariya, finché il suo tradimento non incrocia una punizione letale sanguinosa terminale schiacciante irreversibile definitiva delusa crudele istantanea fine ingiuriosa fatale fallimentare ribelle inerte silenziata violenta."
+    },
+    {
+      "id": "rojuro",
+      "name": "Rōjūrō Ōtoribashi (Rose)",
+      "image": "assets/characters/rojuro.jpg",
+      "zanpakuto": "Kinshara",
+      "abilities": [
+        "Serpente d'Oro Acustico Distruttivo Musciale (Kinshara Butodan)"
+      ],
+      "affiliation": "Capitano 3ª Div. / Vaizard",
+      "bio": "Artista elegante musicale introverso. Sfoggia illusioni sonore letali orchestrando Bankai direttoriali che infliggono danni fisici mentali psicotici letali basati interamente sull'inganno letale acustico mortale ipnotico sinfonico di melodie infernali mortali sinfoniache ed ustionanti e bagnanti infide ed ingegnose ma auto-rivelate vanitose."
+    },
+    {
+      "id": "sajin",
+      "name": "Sajin Komamura",
+      "image": "assets/characters/sajin.jpg",
+      "zanpakuto": "Tenken",
+      "abilities": [
+        "Gigante Spiritronico d'Acciaio a Specchio Sincrono",
+        "Tecnica Sacrificale Umana Immortale Dangai Joue Temporanea Divina Lupesca"
+      ],
+      "affiliation": "Capitano 7ª Div.",
+      "bio": "Eroe bestiale dal senso di giustizia e gratitudine titanico inumano devoto ciecamente. Strappa letteralmente il proprio organo cardiaco canino lupesco ancestrale tribale spirituale per vendetta cieca corazzata ed immortale immortale sacrificale letale caduca bestiale."
+    },
+    {
+      "id": "sawatari",
+      "name": "Sawatari",
+      "image": "assets/characters/sawatari.jpg",
+      "zanpakuto": "Baura (Balena Spirito)",
+      "abilities": [
+        "Trasporto Inter-Dimensionale Digerente Ingerente Assassina Letale Etersa Magica Devorante Vuoto Oscuro e Profondo Interspaziale Etereo Infinito"
+      ],
+      "affiliation": "Bount",
+      "bio": "Uomo marcio vecchio ed estremamente vile subdolo consumatore anomalo insaziabile inumano oscuro tossico macabro parassita malato d'ingordigia infinita putrescente rancorosa decadente orrida ed infame vecchiaia macabra senile crudele e vendicativa orripilante ed indigesta oscura antica letale insaziabile e tetra."
+    },
+    {
+      "id": "tatsuki",
+      "name": "Tatsuki Arisawa",
+      "image": "assets/characters/tatsuki.jpg",
+      "zanpakuto": "Nessuna",
+      "abilities": [
+        "Arti Marziali"
+      ],
+      "affiliation": "Umana",
+      "bio": "Migliore amica di Orihime, fortissima lottatrice di karate."
+    },
+    {
+      "id": "tenjiro",
+      "name": "Tenjirō Kirinji",
+      "image": "assets/characters/tenjiro.jpg",
+      "zanpakuto": "Kinpika",
+      "abilities": [
+        "Magia Curativa Termale"
+      ],
+      "affiliation": "Guardia Reale (Squadra Zero)",
+      "bio": "Creatore delle sorgenti curative e maestro di Unohana."
+    },
+    {
+      "id": "tessai",
+      "name": "Tessai Tsukabishi",
+      "image": "assets/characters/tessai.jpg",
+      "zanpakuto": "Sconosciuta",
+      "abilities": [
+        "Kido Proibiti Massimi Livelli"
+      ],
+      "affiliation": "Ex Capitano Kido Corps",
+      "bio": "Gigante massiccio del negozio Urahara, un tempo leader del corpo Kido."
+    },
+    {
+      "id": "tetsuzaemon",
+      "name": "Tetsuzaemon Iba",
+      "image": "assets/characters/tetsuzaemon.jpg",
+      "zanpakuto": "Spada Larga (Sconosciuto)",
+      "abilities": [
+        "Zanjutsu Yakuza"
+      ],
+      "affiliation": "Luogotenente 7ª Div.",
+      "bio": "Yakuza dal cuore d'oro, leale al capitano Komamura."
+    },
+    {
+      "id": "tia-harribel",
+      "name": "Tia Harribel",
+      "image": "assets/characters/tia-harribel.jpg",
+      "zanpakuto": "Tiburón",
+      "abilities": [
+        "Manipolazione Acqua Boleinte"
+      ],
+      "affiliation": "3° Espada",
+      "bio": "Arrancar compassata e materna, l'unica donna tra gli Espada di vertice."
+    },
+    {
+      "id": "toshiro",
+      "name": "Tōshirō Hitsugaya",
+      "image": "assets/characters/toshiro.jpg",
+      "zanpakuto": "Hyōrinmaru",
+      "abilities": [
+        "Gelo Draconico"
+      ],
+      "affiliation": "Capitano 10ª Div.",
+      "bio": "Genio prodigioso glaciale dalle dimensioni minute."
+    },
+    {
+      "id": "ugaki",
+      "name": "Ugaki",
+      "image": "assets/characters/ugaki.jpg",
+      "zanpakuto": "Gesell (Doll Illusoria)",
+      "abilities": [
+        "Mostri d'Ombra"
+      ],
+      "affiliation": "Bount",
+      "bio": "Scienziato Bount codardo che combatte tramite illusioni ottiche letali."
+    },
+    {
+      "id": "ulquiorra",
+      "name": "Ulquiorra Cifer",
+      "image": "assets/characters/ulquiorra.jpg",
+      "zanpakuto": "Murciélago",
+      "abilities": [
+        "Lanza del Relámpago"
+      ],
+      "affiliation": "4° Espada",
+      "bio": "Nichilista dal buco vuoto sul petto, padrone della Segunda Etapa."
+    },
+    {
+      "id": "ururu",
+      "name": "Ururu Tsumugiya",
+      "image": "assets/characters/ururu.jpg",
+      "zanpakuto": "Cannone a spalla multiplo",
+      "abilities": [
+        "Genocidio berserk"
+      ],
+      "affiliation": "Urahara Shop",
+      "bio": "Bambina timida che in modalità difensiva diviene un mostro da guerra inumano."
+    },
+    {
+      "id": "uryu",
+      "name": "Uryū Ishida",
+      "image": "assets/characters/uryu.jpg",
+      "zanpakuto": "Arco Quincy",
+      "abilities": [
+        "Antithesis"
+      ],
+      "affiliation": "Quincy",
+      "bio": "L'ultimo Quincy Gemischt fiero scampato al massacro temporale."
+    },
+    {
+      "id": "wonderweiss",
+      "name": "Wonderweiss Margela",
+      "image": "assets/characters/wonderweiss.jpg",
+      "zanpakuto": "Extinguir",
+      "abilities": [
+        "Sigillo di Fuoco (Antifiamma)"
+      ],
+      "affiliation": "Arrancar Modificato",
+      "bio": "Creato da Aizen unicamente e tragicamente per neutralizzare Ryūjin Jakka perdendo l'intelletto umano."
+    },
+    {
+      "id": "yachiru",
+      "name": "Yachiru Kusajishi",
+      "image": "assets/characters/yachiru.jpg",
+      "zanpakuto": "Sanpo Kenjū",
+      "abilities": [
+        "Tagli Sequenziali Fantasma"
+      ],
+      "affiliation": "Luogotenente 11ª Div.",
+      "bio": "Bambina dai capelli rosa eternamente avvinghiata a Kenpachi."
+    },
+    {
+      "id": "yammy",
+      "name": "Yammy Llargo",
+      "image": "assets/characters/yammy.jpg",
+      "zanpakuto": "Ira",
+      "abilities": [
+        "Gigantismo da Rabbia Indotta"
+      ],
+      "affiliation": "10° (0) Espada",
+      "bio": "Il colosso titanico che trae forza puramente bruta ed insensata dall'ira."
+    },
+    {
+      "id": "yasutora",
+      "name": "Yasutora Sado (Chad)",
+      "image": "assets/characters/yasutora.jpg",
+      "zanpakuto": "Nessuna",
+      "abilities": [
+        "Braccio Destro del Gigante",
+        "Braccio Sinistro del Diavolo"
+      ],
+      "affiliation": "Umano (Fullbringer)",
+      "bio": "Gigante silenzioso e taciturno, colossale e invincibile, miglior amico di Ichigo."
+    },
+    {
+      "id": "yhwach",
+      "name": "Yhwach",
+      "image": "assets/characters/yhwach.jpg",
+      "zanpakuto": "Spada Energetica",
+      "abilities": [
+        "The Almighty"
+      ],
+      "affiliation": "Re dei Quincy",
+      "bio": "L'onnipotente padre dei Quincy capace di manipolare ed alterare fisicamente ogni futuro probabile a suo puro ed egoistico incontrastabile capriccio divino."
+    },
+    {
+      "id": "yoruichi",
+      "name": "Yoruichi Shihōin",
+      "image": "assets/characters/yoruichi.jpg",
+      "zanpakuto": "Sconosciuta",
+      "abilities": [
+        "Shunko (Lampo Bestiale)",
+        "Trasformazione Felina"
+      ],
+      "affiliation": "Ex Capitano 2ª Div.",
+      "bio": "Dea del Lampo dal corpo fulmineo. Nobile ribelle rifugiata sulla terra assieme ad Urahara."
+    },
+    {
+      "id": "yoshi",
+      "name": "Yoshi",
+      "image": "assets/characters/yoshi.jpg",
+      "zanpakuto": "Nieder (Doll Spada-Ventaglio)",
+      "abilities": [
+        "Difesa d'Acciaio"
+      ],
+      "affiliation": "Bount",
+      "bio": "Bount femminile armata di un'arma offensiva e difensiva fusa letale."
+    },
+    {
+      "id": "yoshino",
+      "name": "Yoshino Sōma",
+      "image": "assets/characters/yoshino.jpg",
+      "zanpakuto": "Goethe (Doll di Fuoco)",
+      "abilities": [
+        "Palle di Fuoco"
+      ],
+      "affiliation": "Bount",
+      "bio": "Donna matura dal carattere tragico simile emotivamente alla defunta moglie di Kariya."
+    },
+    {
+      "id": "yukio",
+      "name": "Yukio Hans Vorarlberna",
+      "image": "assets/characters/yukio.jpg",
+      "zanpakuto": "Nessuna",
+      "abilities": [
+        "Invaders Must Die (Console Dimensionale)"
+      ],
+      "affiliation": "Fullbringer",
+      "bio": "Hacker ragazzino capace di imprigionare chiunque all'interno di un videogioco tascabile ove egli è un dio totale formidabile pixelato letale controllore supremo imbattibile arrogante sadico astuto manipolatore strategico."
+    },
+    {
+      "id": "yumichika",
+      "name": "Yumichika Ayasegawa",
+      "image": "assets/characters/yumichika.jpg",
+      "zanpakuto": "Ruri'iro Kujaku",
+      "abilities": [
+        "Assorbimento Fiore Reiatsu"
+      ],
+      "affiliation": "5° Seggio 11ª Div.",
+      "bio": "Narcisista che nasconde la vera natura Kido della propria spada per restare nell'Unidicesima Divisione devota alla purissima ed unicamente rozza battaglia violenta fatale fiduciosa fedele ostinata ostinata testarda fatale letale."
+    },
+    {
+      "id": "yuzu",
+      "name": "Yuzu Kurosaki",
+      "image": "assets/characters/yuzu.jpg",
+      "zanpakuto": "Nessuna",
+      "abilities": [
+        "Cucina Domestica"
+      ],
+      "affiliation": "Famiglia Kurosaki",
+      "bio": "Sorella tenerissima di Ichigo senza reali poteri se non occuparsi devotamente commoventemente amorevolmente affettuosamente affaccendata domestica famigliare pura soave letale."
+    },
+    {
+      "id": "zommari",
+      "name": "Zommari Rureoux",
+      "image": "assets/characters/zommari.jpg",
+      "zanpakuto": "Brujería",
+      "abilities": [
+        "Controllo Totale Corporeo Ottico"
+      ],
+      "affiliation": "7° Espada",
+      "bio": "Arrancar fanatico pseudo-religioso dotato della velocità maggiore grazie al Sonido Gemelo superlativo letale rapido ineguagliabile inafferabile illusorio mistico oscuro voodoo ossessivo delirante."
+    },
+    {
+      "id": "oetsu",
+      "name": "Ōetsu Nimaiya",
+      "image": "assets/characters/oetsu.jpg",
+      "zanpakuto": "Sayafushi",
+      "abilities": [
+        "Forgiatura Asauchi Suprema"
+      ],
+      "affiliation": "Guardia Reale (Squadra Zero)",
+      "bio": "L'effettivo creatore materiale artistico incontrastabile infallibile leggendario insuperabile definitivo assoluto di tutte le Zanpakuto esistenti irripetibili impareggiabili letali asauchi affilatissime disumane inarrivabili ineguagliabili letali eccelse perfette."
+    },
+    {
+      "id": "senjumaru",
+      "name": "Senjumaru Shutara",
+      "image": "assets/characters/senjumaru.jpg",
+      "zanpakuto": "Shigarami",
+      "abilities": [
+        "Tessitura Illusoria"
+      ],
+      "affiliation": "Guardia Reale (Squadra Zero)",
+      "bio": "Una membra della Squadra Zero, inventrice dello Shihakushō. Le sue formidabili abilità risiedono in illusioni di tessuto capaci di raggirare e manipolare perfino gli Stern Ritter d'élite, tessendo trappole indistruttibili a velocità impercettibili."
+    },
+    {
+      "id": "shinji",
+      "name": "Shinji Hirako",
+      "image": "assets/characters/shinji.jpg",
+      "zanpakuto": "Sakanade",
+      "abilities": [
+        "Maschera Hollow",
+        "Inversione Illusoria"
+      ],
+      "affiliation": "Capitano 5ª Div. / Vaizard",
+      "bio": "L'affabile ma acuto leader dei Vaizard ed ex Capitano della 5ª Divisione. Spesso scherza e mantiene un tono sardonico, ma possiede intuizioni brillanti essendo stato il primo a diffidare apertamente della letale vera natura di uno stoico e silente Sōsuke Aizen."
+    },
+    {
+      "id": "shunsui",
+      "name": "Shunsui Kyōraku",
+      "image": "assets/characters/shunsui.jpg",
+      "zanpakuto": "Katen Kyōkotsu",
+      "abilities": [
+        "Ambidestrismo",
+        "Giochi Infantili Letali"
+      ],
+      "affiliation": "Capitano Comandante, 1ª Div.",
+      "bio": "Un uomo dal kimono floreale che appare pigro, libertino e amante del sake, ma che nasconde sotto al suo cappello di paglia un genio tattico assoluto, sangue freddo da assassino storico e la carica ereditaria di Capitano Comandante dopo la caduta di Yamamoto."
+    },
+    {
+      "id": "shuhei",
+      "name": "Shūhei Hisagi",
+      "image": "assets/characters/shuhei.jpg",
+      "zanpakuto": "Kazeshini",
+      "abilities": [
+        "Falci Gemelle",
+        "Immortalità Temporanea"
+      ],
+      "affiliation": "Luogotenente 9ª Div.",
+      "bio": "L'onorevole luogotenente dal tatuaggio facciale 69, segnato profondamente dal suo cieco mentore Tōsen. Combatte con una Zanpakuto letale formata da doppie falci collegate da catene con le quali incatena spietatamente ed inesorabilmente i propri demoni interni."
+    },
+    {
+      "id": "shukuro",
+      "name": "Shūkurō Tsukishima",
+      "image": "assets/characters/shukuro.jpg",
+      "zanpakuto": "Book of the End",
+      "abilities": [
+        "Inserimento Mentale"
+      ],
+      "affiliation": "Fullbringer (Xcution)",
+      "bio": "Elegante, stoico e spietatamente manipolatore, il suo tremendo Fullbring, attivato tramite il suo fedele libro, ha il potere onnipotente di infiltrare la sua esistenza o le sue menzogne direttamente nel passato della vittima o degli oggetti che recide indenne."
+    },
+    {
+      "id": "shusuke",
+      "name": "Shūsuke Amagai",
+      "image": "assets/characters/shusuke.jpg",
+      "zanpakuto": "Raika",
+      "abilities": [
+        "Fuoco Esplosivo",
+        "Bakkōtō Sigillante"
+      ],
+      "affiliation": "Ex Capitano 3ª Div.",
+      "bio": "Il carismatico sostituto capitano della Terza Divisione. Nascondeva una segreta arma Bakkōtō capace di annullare completamente e passivamente tutti i limitatori o le capacità fisiche ed eteree dei poteri shinigami, al solo fine tragico di pura cieca vendetta."
+    },
+    {
+      "id": "sui-feng",
+      "name": "Sui Feng",
+      "image": "assets/characters/sui-feng.jpg",
+      "zanpakuto": "Suzumebachi",
+      "abilities": [
+        "Nigeki Kessatsu (Morte in 2 Colpi)"
+      ],
+      "affiliation": "Capitano 2ª Div.",
+      "bio": "Rigida, feroce e infallibile comandante delle Forze Segrete Assassine Onmitsukidō. Idolatra follemente la sua ex mentore Yoruichi Shihōin; è letalmente addestrata a terminare istantaneamente qualsiasi bersaglio grazie a sigilli pungenti e letali a nido d'ape mortali."
+    },
+    {
+      "id": "szayelaporro",
+      "name": "Szayelaporro Granz",
+      "image": "assets/characters/szayelaporro.jpg",
+      "zanpakuto": "Fornicarás",
+      "abilities": [
+        "Teatro de Titere (Bambole Voodoo)",
+        "Gabriel"
+      ],
+      "affiliation": "8° Espada",
+      "bio": "Il folle scienziato sadico del Hueco Mundo. Si crogiola analizzando crudelmente le viscere delle sue cavie e replicandone i medesimi organi per poi torturarli atrocemente con feticci di bambole da lontano, e infettandoli con il suo letalissimo uovo della rinascita parassitaria arrogante."
+    },
+    {
+      "id": "aizen",
+      "name": "Sōsuke Aizen",
+      "image": "assets/characters/aizen.jpg",
+      "zanpakuto": "Kyōka Suigetsu",
+      "abilities": [
+        "Kanzen Saimin (Ipnosi Completa)",
+        "Kido Assoluto",
+        "Hōgyoku"
+      ],
+      "affiliation": "Ex Capitano 5ª Div. / Dio Oscuro",
+      "bio": "Il grande manipolatore onnisciente dalle mentite ed affabili spoglie letali; dotato di un'impareggiabile logica preveggente insuperabile fredda sociopatica letale ed un'ipnosi incontrastabile assoluta sensoriale perfida ineludibile divina. Aspirante distruttore indiscusso del Re delle Anime onnipotente."
+    },
+    {
+      "id": "don_kanonji",
+      "name": "Don Kanonji",
+      "image": "assets/characters/don_kanonji.jpg",
+      "zanpakuto": "Nessuna",
+      "abilities": [
+        "Kanonball",
+        "Spiriti Are Always With You"
+      ],
+      "affiliation": "Umano",
+      "bio": "Un bizzarro e celebre medium televisivo adorato dalle folle, diventato alleato degli Shinigami grazie all'incontro stramparato con Ichigo. Anche se goffo e pittoresco, nasconde un coraggio insospettabile."
+    },
+    {
+      "id": "dordoni",
+      "name": "Dordoni Alessandro Del Socaccio",
+      "image": "assets/characters/dordoni.jpg",
+      "zanpakuto": "Giralda",
+      "abilities": [
+        "Cero",
+        "Bala",
+        "Resurrección: Giralda"
+      ],
+      "affiliation": "Privaron Espada (Arrancar No. 103)",
+      "bio": "Un ex-Espada degradato ai Privaron. Veste come un nobile ed ha una mentalità molto eccentrica e galante. Usa il vento ciclonico in battaglia coi calcagni per devastare l'avversario."
+    },
+    {
+      "id": "emilou_apacci",
+      "name": "Emilou Apacci",
+      "image": "assets/characters/emilou_apacci.jpg",
+      "zanpakuto": "Cierva",
+      "abilities": [
+        "Cero",
+        "Quimera Parca"
+      ],
+      "affiliation": "Arrancar (Fracción di Harribel)",
+      "bio": "Una delle tre Fracción della Tercera Espada Tia Harribel. Testa calda, aggressiva e leale fino alla morte, indossa un copricapo d'osso che ricorda un corno letale e veloce."
+    },
+    {
+      "id": "ran_tao",
+      "name": "Ran Tao",
+      "image": "assets/characters/ran_tao.jpg",
+      "zanpakuto": "N/D",
+      "abilities": [
+        "Kido di altissimo livello",
+        "Ricerca spirituale"
+      ],
+      "affiliation": "S.R.D.I (Ex Ricercatrice Shinigami)",
+      "bio": "Brillante e pentita ricercatrice della Soul Society e creatrice dei Bount. Possiede un intelletto acuto e un sigillo mistico che le impedisce di usare liberamente i suoi massimi poteri spirituali."
+    },
+    {
+      "id": "rangiku_matsumoto",
+      "name": "Rangiku Matsumoto",
+      "image": "assets/characters/rangiku_matsumoto.jpg",
+      "zanpakuto": "Haineko",
+      "abilities": [
+        "Shunpo",
+        "Kido",
+        "Bakuhatsu Haineko"
+      ],
+      "affiliation": "Gotei 13 (Luogotenente Decima Divisione)",
+      "bio": "La bellissima, pigra ma letalmente fiera Luogotenente del Capitano Hitsugaya. Usa la sua spada che si sbriciola in letali ceneri taglienti volanti per danzare tra orde di nemici sfiancandoli."
+    },
+    {
+      "id": "soul_king",
+      "name": "Il Re delle Anime (Reiō)",
+      "image": "assets/characters/soul_king.jpg",
+      "zanpakuto": "Il Potere Assoluto",
+      "abilities": [
+        "The Almighty (Ancestrale)",
+        "Chiave dei Mondi"
+      ],
+      "affiliation": "Deità della Soul Society",
+      "bio": "Il misterioso e apatico dio reggente attorno a cui è imperniato l'equilibrio dei Tre Mondi (Soul Society, Hueco Mundo, Mondo Umano). È tenuto incapsulato in letargo dai Capitani Generali e dalla Squadra 0."
+    },
+    {
+      "id": "reiryoku_concept",
+      "name": "Reiryoku (Potere Spirituale)",
+      "image": "assets/characters/reiryoku_concept.jpg",
+      "zanpakuto": "Concetto Energetico",
+      "abilities": [
+        "Manipolazione Reiatsu",
+        "Alimentazione Kido"
+      ],
+      "affiliation": "Energia Base",
+      "bio": "Non è un vero spirito bensì l'unità fondamentale del cosmo spirituale, la forza intrinseca dell'anima che permette agli Shinigami e agli Hollow di trascendere lo spazio e impiegare arti sovrumane distruttive."
+    }
+  ],
+  "timeline": [
+    {
+      "id": "t1",
+      "era": "Era Antica",
+      "faction": "Divinità / Nobili",
+      "title": "La Creazione dei Tre Mondi",
+      "description": "Il Re delle Anime originario viene mutilato e sigillato dai capi delle Cinque Famiglie Nobili per creare l'equilibrio tra la Soul Society, il Mondo Umano e l'Hueco Mundo."
+    },
+    {
+      "id": "t2",
+      "era": "1000 Anni Fa",
+      "faction": "Shinigami vs Quincy",
+      "title": "La Guerra Sanguinosa e la Sconfitta di Yhwach",
+      "description": "Genryūsai Shigekuni Yamamoto, alla guida dell'originario e spietato Gotei 13, sconfigge Yhwach, Re dei Quincy, costringendo l'Impero Wandenreich a ritirarsi nell'ombra del Seireitei."
+    },
+    {
+      "id": "t3",
+      "era": "200 Anni Fa",
+      "faction": "Quincy",
+      "title": "Lo Sterminio dei Quincy",
+      "description": "La Soul Society lancia una campagna di sterminio preventivo contro quasi tutti i restanti Quincy nel Mondo Umano per prevenire il collasso delle anime causato dalla loro distruzione totale degli Hollow."
+    },
+    {
+      "id": "t4",
+      "era": "101 Anni Fa",
+      "faction": "Vaizard",
+      "title": "L'Incidente della Hollowificazione",
+      "description": "Sōsuke Aizen conduce esperimenti segreti di Hollowificazione su diversi Capitani e Luogotenenti (divenuti poi i Vaizard). Kisuke Urahara viene ingiustamente incastrato ed esiliato sulla Terra insieme a Yoruichi e Tessai."
+    },
+    {
+      "id": "t5",
+      "era": "20 Anni Fa",
+      "faction": "Famiglia Kurosaki",
+      "title": "L'Incontro tra Essenze Rifiutate",
+      "description": "Il Capitano della Decima Divisione, Isshin Shiba, salva la Quincy Masaki da un Hollow artificiale di Aizen ('White'). Per fermare l'infezione Hollow di Masaki, Isshin rinuncia permanentemente ai suoi poteri di Shinigami, stabilendosi sulla Terra."
+    },
+    {
+      "id": "t6",
+      "era": "Oggi (Inizio Storia)",
+      "faction": "Ichigo",
+      "title": "L'Agente Sostituto Shinigami",
+      "description": "Ichigo Kurosaki ottiene i poteri di Shinigami da Rukia Kuchiki per proteggere la sua famiglia da un Hollow avido. Diviene lo Shinigami Sostituto della città di Karakura."
+    },
+    {
+      "id": "t7",
+      "era": "Infiltrazione nel Seireitei",
+      "faction": "Gotei 13",
+      "title": "Il Tradimento di Aizen",
+      "description": "Aizen inscena la sua stessa morte, manipola le esecuzioni segrete e recupera l'Hōgyoku dall'anima di Rukia, prima di tradire definitivamente il Gotei 13 ritarandosi nell'Hueco Mundo insieme a Gin e Tōsen."
+    },
+    {
+      "id": "t8",
+      "era": "Guerra di Karakura",
+      "faction": "Espada",
+      "title": "La Battaglia Falsa di Karakura (FKT)",
+      "description": "Gli Espada attaccano la finta Karakura. Dopo durissimi scontri, Aizen si fonde con l'Hōgyoku, ma Ichigo domina la forma suprema del Getsuga Tensho finale perdendo i suoi poteri ma garantendo alla Soul Society di sigillare il Dio traditore."
+    },
+    {
+      "id": "t9",
+      "era": "17 Mesi Dopo",
+      "faction": "Fullbringer",
+      "title": "L'Arco del Sostituto Smarrito",
+      "description": "Kūgo Ginjō manipola Ichigo per rubargli i poteri Fullbring, ma grazie ad una spada spiritualizzata fornita da tutto il Gotei 13, Ichigo riacquista interamente la sua carica leggendaria e annienta l'organizzazione Xcution."
+    },
+    {
+      "id": "t10",
+      "era": "La Guerra dei Mille Anni",
+      "faction": "Stern Ritter",
+      "title": "Il Risveglio del Re Quincy",
+      "description": "Yhwach si risveglia ed ordina l'eliminazione totale del Gotei 13. Il Seireitei viene raso al suolo in pochi minuti, il Comandante Yamamoto è abbattuto ferocemente, e Yhwach invade il Palazzo del Re delle Anime puntando ad assorbire l'universo intero."
+    }
+  ],
+  "zanpakuto": [
+    {
+      "id": "zangetsu",
+      "name": "Zangetsu",
+      "owner": "Ichigo Kurosaki",
+      "shikai": {
+        "image": "assets/zanpakuto/zangetsu_shikai.jpg",
+        "command": "Nessun Comando (Sempre Rilasciata) / Doppia Lama",
+        "description": "Un letale mannaione gigantesco oppure due lame nere bilanciate per assalti rapidi ed il letale Getsuga Tenshō."
+      },
+      "bankai": {
+        "name": "Tensa Zangetsu",
+        "image": "assets/zanpakuto/zangetsu_bankai.jpg",
+        "command": "Bankai!",
+        "description": "Compressione estrema della Reiatsu, fornisce ad Ichigo una velocità iper-sonica, riflessi istantanei e tremendi fendenti nerastri in grado di lacerare l'orizzonte (e il destino stesso)."
+      }
+    },
+    {
+      "id": "ryujin-jakka",
+      "name": "Ryūjin Jakka",
+      "owner": "Genryūsai Shigekuni Yamamoto",
+      "shikai": {
+        "image": "assets/zanpakuto/ryujin-jakka_shikai.jpg",
+        "command": "Riduci l'Universo in Cenere",
+        "description": "La Zanpakuto infuocata più antica e devastante; genera un'immensa e apocalittica ondata di fiamme inestinguibili che brucia qualsiasi cosa tocchi il cielo o la terra."
+      },
+      "bankai": {
+        "name": "Zanka no Tachi",
+        "image": "assets/zanpakuto/ryujin-jakka_bankai.jpg",
+        "command": "Bankai: Zanka no Tachi",
+        "description": "Le fiamme spariscono confinate dentro la lama singola; la temperatura del calore raggiunge 15 milioni di gradi. Lacerando, cancella dall'esistenza i bersagli e risorge le ceneri infuocate dei defunti passati sottomessi."
+      }
+    },
+    {
+      "id": "kyoka-suigetsu",
+      "name": "Kyōka Suigetsu",
+      "owner": "Sōsuke Aizen",
+      "shikai": {
+        "image": "assets/zanpakuto/kyoka-suigetsu_shikai.jpg",
+        "command": "Spezza (Kudakero)",
+        "description": "Il Kanzen Saimin: ipnosi totale sui cinque sensi, la massa o la statura dell'oggetto ed entità controllati. Infrangibile, infallibile, e perpetua una volta che se ne osserva il rilascio incantato perfido."
+      },
+      "bankai": {
+        "name": "Sconosciuto",
+        "image": "assets/zanpakuto/kyoka-suigetsu_bankai.jpg",
+        "command": "Sconosciuto",
+        "description": "Aizen non ha mai mostrato la necessità materiale di avvalersene. L'Ipnosi Completa fu ed è sufficiente per soverchiare Divinità."
+      }
+    },
+    {
+      "id": "senbonzakura",
+      "name": "Senbonzakura",
+      "owner": "Byakuya Kuchiki",
+      "shikai": {
+        "image": "assets/zanpakuto/senbonzakura_shikai.jpg",
+        "command": "Disperditi",
+        "description": "La lama deflagra in microscopiche schegge letali affilate che riflettendo la luce paiono miriadi di rosevoli e silenziosi petali di ciliegio in balia delle folate fatali."
+      },
+      "bankai": {
+        "name": "Senbonzakura Kageyoshi",
+        "image": "assets/zanpakuto/senbonzakura_bankai.jpg",
+        "command": "Bankai: Senbonzakura Kageyoshi",
+        "description": "Vengono evocate innumerevoli ed enormi lame giganti dal pavimento che mutano instantaneamente in fantastici miliardi di lame-petali letali. La forma difensiva perfetta fusa unita ad un'offensiva diabolica distruttiva (Gōkei / Hakuteiken)."
+      }
+    },
+    {
+      "id": "hyorinmaru",
+      "name": "Hyōrinmaru",
+      "owner": "Tōshirō Hitsugaya",
+      "shikai": {
+        "image": "assets/zanpakuto/hyorinmaru_shikai.jpg",
+        "command": "Siedi sui Cieli Ghiacciati",
+        "description": "Zanpakuto di elemento ghiaccio suprema: controlla il meteo circostante, emanando un mortale drago di puro ghiaccio glaciale atmosferico implacabile e tenace."
+      },
+      "bankai": {
+        "name": "Daiguren Hyōrinmaru",
+        "image": "assets/zanpakuto/hyorinmaru_bankai.jpg",
+        "command": "Bankai... Forma Adulta",
+        "description": "Il Capitano assume le sembianze di un Angelo Ghiacciato dotato di ali congelanti. Nella padronanza perfetta maturata (forma adulta prolungata temporale) basta scorrere l'elsa per ibernare concettualmente funzioni elementari totali magiche avversarie."
+      }
+    },
+    {
+      "id": "katen-kyokotsu",
+      "name": "Katen Kyōkotsu",
+      "owner": "Shunsui Kyōraku",
+      "shikai": {
+        "image": "assets/zanpakuto/katen-kyokotsu_shikai.jpg",
+        "command": "Il Vento dei Fiori è Inquieta e il Demone Zampilla...",
+        "description": "Doppie daghe massicce piratesche che 'trasformano i giochi di bambini nella terribile realtà fatale'. Ombre letali (Kageoni), colori (Irooni), passaggi letali ad una taglia insormontabile di abilità tattica."
+      },
+      "bankai": {
+        "name": "Karamatsu Shinjū",
+        "image": "assets/zanpakuto/katen-kyokotsu_bankai.jpg",
+        "command": "Bankai",
+        "description": "Nero dolore, oscurità raggelante disperata, una tragica fiaba teatrale di 4 atti infusi alle ferite recirpoche ed all'affogamento abissale marino fatale recidente l'essenza sanguinaria del fato medesimo incrociato indiscusso."
+      }
+    },
+    {
+      "id": "benihime",
+      "name": "Benihime",
+      "owner": "Kisuke Urahara",
+      "shikai": {
+        "image": "assets/zanpakuto/benihime_shikai.jpg",
+        "command": "Svegliati",
+        "description": "Padroneggia fasci, reti sanguinanti ed elusivi Kido schermanti (Nake, Chikasumi no Tate). Plasma onde Reiatsu d'ingegneria rossa ed esplosiva perfetta chirurgica."
+      },
+      "bankai": {
+        "name": "Kannonbiraki Benihime Aratame",
+        "image": "assets/zanpakuto/benihime_bankai.jpg",
+        "command": "Bankai!",
+        "description": "Una figura femminile mastodontica la cui essenza 'Ricuce, Disseziona e Ricompone' concetti o materie stesse. Rende un braccio ceco nuovo vivo e taglia la carne onnipotente solo modificandone l'essenza architettonica base."
+      }
+    },
+    {
+      "id": "ashisogi",
+      "name": "Ashisogi Jizō",
+      "owner": "Mayuri Kurotsuchi",
+      "shikai": {
+        "image": "assets/zanpakuto/ashisogi_shikai.jpg",
+        "command": "Strappa le Membra",
+        "description": "Un bizzarro tridente neonato che instilla immediatamente tossine bio-paralitiche anestetizzando perversamente le sinapsi nervose impedendo reazioni motorie letali ma accatastando dolore lucido intatto avvilente sibilante sadico."
+      },
+      "bankai": {
+        "name": "Konjiki Ashisogi Jizō",
+        "image": "assets/zanpakuto/ashisogi_bankai.jpg",
+        "command": "Bankai... Modificato",
+        "description": "Millepiedi colossale tossico dal muso neonato capace di nebulizzare un gas tossico biologico mortale autorigenerante a base sanguigna sperimentale chimica geniale e divoratrice."
+      }
+    },
+    {
+      "id": "sode-shirayuki",
+      "name": "Sode no Shirayuki",
+      "owner": "Rukia Kuchiki",
+      "shikai": {
+        "image": "assets/zanpakuto/sode-shirayuki_shikai.jpg",
+        "command": "Danza",
+        "description": "La spada più intonsa della storia. Non congela la condensa circostante bensì l'essenza motoria della medesima Rukia rallutandola letalmente temporaneamente fino al fatale congelamento dello Zero Assoluto inumano indescrivibile."
+      },
+      "bankai": {
+        "name": "Hakka no Togame",
+        "image": "assets/zanpakuto/sode-shirayuki_bankai.jpg",
+        "command": "Bankai!",
+        "description": "Zero Assoluto istantaneo in un'area titanica raggelante. Il bersaglio diventa fragile statua gelata che s'infrange alla minima corrente spazzaneve maestosa ed estasiante."
+      }
+    },
+    {
+      "id": "suzumebachi",
+      "name": "Suzumebachi",
+      "owner": "Sui Feng",
+      "shikai": {
+        "image": "assets/zanpakuto/suzumebachi_shikai.jpg",
+        "command": "Pungi tutti i Nemici a Morte",
+        "description": "Dito pungiglione a stiletto: incide un fiore crestato letale sul nemico (Hōmonka). Se viene punzecchiato sulla medesima cresta formale due volte, sopraggiunge la morte fatale fulminea istantanea inevitabile infallibile letale."
+      },
+      "bankai": {
+        "name": "Jakuhō Raikōben",
+        "image": "assets/zanpakuto/suzumebachi_bankai.jpg",
+        "command": "Bankai...",
+        "description": "Paradossalmente ed ironicamente assai pesante, è nientemeno che un missile di testata balistica anti-carro spiritronico dorato enorme che disintegra a detonazione catastrofica termica il difensore indissolubile in scaglie incenerite totali fragorose assordanti."
+      }
+    },
+    {
+      "id": "zabimaru",
+      "name": "Zabimaru",
+      "owner": "Renji Abarai",
+      "shikai": {
+        "image": "assets/zanpakuto/zabimaru_shikai.jpg",
+        "command": "Ruggisci",
+        "description": "Lama composita a scaglie frammentate che allunga i suoi segmenti osseani e letali con estensione e destrezza a frusta, spezzando la difesa ignara tramite assalti flessuosi taglienti animaleschi violenti."
+      },
+      "bankai": {
+        "name": "Sōō Zabimaru",
+        "image": "assets/zanpakuto/zabimaru_bankai.jpg",
+        "command": "Bankai, Sōō Zabimaru",
+        "description": "La Vera forma (Zaga Teppō): Un cannone dentato scimmiesco serpentino devastante focalizzato interamente e mortalmente sull'abbattimento energetico frontale massivo ed incandescente esplosivo scimmiesco fiammante."
+      }
+    },
+    {
+      "id": "pantera",
+      "name": "Pantera (Resurrección)",
+      "owner": "Grimmjow Jaegerjaques",
+      "shikai": {
+        "image": "assets/zanpakuto/pantera_shikai.jpg",
+        "command": "Forma Base",
+        "description": "La Katana posseduta costringe Grimmjow alla fisionomia umanoide sebbene contenga un potere istintivo ed animalesco letale sferzante furente scattante furbo disarmante orgoglioso istintivo Cero."
+      },
+      "bankai": {
+        "name": "Desgarrón",
+        "image": "assets/zanpakuto/pantera_bankai.jpg",
+        "command": "Digrigna, Pantera!",
+        "description": "Velocità bestiale inesplicabile, corazza felina letale con onde d'urto fendente massiccio turbolente letali indomite. Lancio di saette ed artigli giganti cerulei energetici che annientano grattacieli o roccaforti celarsi colpevoli distruttive aspre decise letali feroci furiose spietate formidabili e regali felini."
+      }
+    },
+    {
+      "id": "murcielago",
+      "name": "Murciélago (Resurrección)",
+      "owner": "Ulquiorra Cifer",
+      "shikai": {
+        "image": "assets/zanpakuto/murcielago_shikai.jpg",
+        "command": "Forma Base",
+        "description": "Arma sottile verde pallida capace di riflettere Cero oscuri devastanti puritani stoici apatici potenti invulnerabili solidi malinconici immoti passivi letali veloci."
+      },
+      "bankai": {
+        "name": "Segunda Etapa",
+        "image": "assets/zanpakuto/murcielago_bankai.jpg",
+        "command": "Incatenali, Murciélago",
+        "description": "Una disperata seconda e maestosa fase diabolica alata (Segunda Etapa). Rigenerazione estrema istantanea, forza insuperabile abissale letale infinita opprimente, evocatrice della Lanza del Relámpago che detona oceani desertici nucleari rovinosi."
+      }
+    },
+    {
+      "id": "loslobos",
+      "name": "Los Lobos (Resurrección)",
+      "owner": "Coyote Starrk",
+      "shikai": {
+        "image": "assets/zanpakuto/loslobos_shikai.jpg",
+        "command": "Forma Base",
+        "description": "Anima scissa eternamente infusa nel corpo della fedele compitina e minuscola Lilynette. Nessuna vera Zanpakuto apparente poiché le loro esistenze fondative sono l'arma ed il possessore gemellare sincrono solipsistico letale infallibile invincibile annoiato letale formidabile formidabile."
+      },
+      "bankai": {
+        "name": "Cero Metralleta",
+        "image": "assets/zanpakuto/loslobos_bankai.jpg",
+        "command": "Dagli Addosso, Los Lobos!",
+        "description": "Pistole Gemelle letali colme del Cero mitragliatrice più folgorante insensatamente esteso inafferrabile fulmineo letale infallibile letale scattante letale scoppiettante, unitamente all'evocazione di lupi spirituali d'anime detonanti fatali furiose che braccano impetuosi ed illimitati solitari i bersagli."
+      }
+    },
+    {
+      "id": "ichimonji",
+      "name": "Ichimonji",
+      "owner": "Ichibē Hyōsube",
+      "shikai": {
+        "image": "assets/zanpakuto/ichimonji_shikai.jpg",
+        "command": "Tingi di Nero",
+        "description": "Un enorme pennello letale per la calligrafia in grado di sprigionare tutto il 'nero' dell'universo infinito stellare notturno mortale. Ogni entità ed abilità inchiostrata sfuma interamente perdendo nome ed esistenza o potere sovrastrutturale vitale etereo divino mortale insensato insuperabile annichilente onnipotente letale."
+      },
+      "bankai": {
+        "name": "Shirafude Ichimonji (Shin'uchi)",
+        "image": "assets/zanpakuto/ichimonji_bankai.jpg",
+        "command": "Vera Forma...",
+        "description": "Tinge di Bianco letale assegnando i nuovi nomi incrociati alle entità dipinte spietatamente onniscientemente letale divinamente indiscusso sovrano. Se rinomina un Dio Quincy 'Formica Nera', esso muore pestato fatalmente e spietatamente irrevocabilmente impotente."
+      }
+    },
+    {
+      "id": "minazuki",
+      "name": "Minazuki",
+      "owner": "Retsu Unohana",
+      "shikai": {
+        "image": "assets/zanpakuto/minazuki_shikai.jpg",
+        "command": "Nessun Comando noto",
+        "description": "Si trasforma in una manta gigante volante in grado di curare le persone inghiottendole nel suo stomaco e guarendole con fluidi gastrici curativi."
+      },
+      "bankai": {
+        "name": "Minazuki (Tutte le cose finiscono)",
+        "image": "assets/zanpakuto/minazuki_bankai.jpg",
+        "command": "Bankai... Minazuki",
+        "description": "L'ambiente circostante si riempie di un fiotto di sangue scuro, acido e letale che corrode carne e spirito riducendo al solo scheletro chiunque ne venga intaccato."
+      }
+    },
+    {
+      "id": "sakanade",
+      "name": "Sakanade",
+      "owner": "Shinji Hirako",
+      "shikai": {
+        "image": "assets/zanpakuto/sakanade_shikai.jpg",
+        "command": "Crolla",
+        "description": "La lama possiede un grande anello sul pomello. Rilascia una nebbia profumata che inverte letteralmente la cognizione spaziale dell'avversario (sopra, sotto, destra, sinistra, e i riflessi visivi)."
+      },
+      "bankai": {
+        "name": "Sakashima Yokoshima Happōfusagari",
+        "image": "assets/zanpakuto/sakanade_bankai.jpg",
+        "command": "Bankai",
+        "description": "Inverte la percezione di 'amici' e 'nemici' in un'area estesissima, costringendo tutti coloro che si trovano nel raggio d'azione a massacrarsi a vicenda."
+      }
+    },
+    {
+      "id": "tachikaze",
+      "name": "Tachikaze",
+      "owner": "Kensei Muguruma",
+      "shikai": {
+        "image": "assets/zanpakuto/tachikaze_shikai.jpg",
+        "command": "Soffia Via",
+        "description": "Si rimpicciolisce in un coltello da combattimento letale. Ogni fendente genera proiettili d'aria ed esplosioni a comando temporizzato."
+      },
+      "bankai": {
+        "name": "Tekken Tachikaze",
+        "image": "assets/zanpakuto/tachikaze_bankai.jpg",
+        "command": "Bankai, Tekken Tachikaze",
+        "description": "Due letali tirapugni con lame protettive sulle braccia. Tutto ciò che tocca subisce un'infinita ed immediata raffica microscopica di esplosioni devastanti finché mantiene il contatto."
+      }
+    },
+    {
+      "id": "kinshara",
+      "name": "Kinshara",
+      "owner": "Rōjūrō Ōtoribashi (Rose)",
+      "shikai": {
+        "image": "assets/zanpakuto/kinshara_shikai.jpg",
+        "command": "Suona",
+        "description": "Una gigantesca frusta dorata a terminazione floreale. Sfodera melodie stridenti che causano esplosioni ed onde d'urto concentriche."
+      },
+      "bankai": {
+        "name": "Kinshara Butōdan",
+        "image": "assets/zanpakuto/kinshara_bankai.jpg",
+        "command": "Bankai...",
+        "description": "Un'illusione musicale infallibile generata da giganteschi 'ballerini' avvolti in bendature. Chiunque ascolti la melodia subisce danni e ustioni fisiche reali dovute alla percezione illusoria estrema."
+      }
+    },
+    {
+      "id": "tengumaru",
+      "name": "Tengumaru",
+      "owner": "Love Aikawa",
+      "shikai": {
+        "image": "assets/zanpakuto/tengumaru_shikai.jpg",
+        "command": "Schiaccia",
+        "description": "Diventa una colossale kanabo chiodata capace di schiacciare palazzi e scaricare turbini di fuoco rotanti spaventosi giganteschi."
+      },
+      "bankai": {
+        "name": "Sconosciuto",
+        "image": "assets/zanpakuto/tengumaru_bankai.jpg",
+        "command": "Sconosciuto",
+        "description": "Il Bankai di Love non è mai stato confermato o mostrato apertamente in battaglia."
+      }
+    },
+    {
+      "id": "shinso",
+      "name": "Shinsō",
+      "owner": "Gin Ichimaru",
+      "shikai": {
+        "image": "assets/zanpakuto/shinso_shikai.jpg",
+        "command": "Trafiggilo a Morte",
+        "description": "La spada si estende istantaneamente ed a grandissima velocità fino alla lunghezza di cento passate di katana, perforando indisturbatamente acciaio e difese corporee."
+      },
+      "bankai": {
+        "name": "Kamishini no Yari",
+        "image": "assets/zanpakuto/shinso_bankai.jpg",
+        "command": "Bankai: Kamishini no Yari",
+        "description": "L'estensione può raggiungere i 13 km ad una velocità pari a 500 volte quella del suono. Ma il suo vero potere non risiede nella lunghezza, ma nel micro-veleno cellulare letale distruttore lasciato intrufolato da una scheggia disintegrante istantanea."
+      }
+    },
+    {
+      "id": "suzumushi",
+      "name": "Suzumushi",
+      "owner": "Kaname Tōsen",
+      "shikai": {
+        "image": "assets/zanpakuto/suzumushi_shikai.jpg",
+        "command": "Piangi",
+        "description": "Emette un trillo ad alta frequenza che priva della coscienza chi lo ode, oppure spara centinaia di lame invisibili vibranti."
+      },
+      "bankai": {
+        "name": "Suzumushi Tsuishiki: Enma Kōrogi",
+        "image": "assets/zanpakuto/suzumushi_bankai.jpg",
+        "command": "Bankai!",
+        "description": "Crea una cupola tenebrosa d'inchiostro oscuro gigantesca assoluta che priva chi è al suo interno di tutti e quattro i principali sensi cognitivi eccetto il tatto, finché la spada sfugge alla mano del suo proprietario."
+      }
+    },
+    {
+      "id": "wabisuke",
+      "name": "Wabisuke",
+      "owner": "Izuru Kira",
+      "shikai": {
+        "image": "assets/zanpakuto/wabisuke_shikai.jpg",
+        "command": "Alza la Testa",
+        "description": "Lama a forma di uncino squadrato ad angolo retto sfalzata. Ogni volta che Wabisuke colpisce una qualsiasi cosa o persona, ne raddoppia il peso esponenzialmente costringendola irrimediabilmente ad abbassare umiliantemente la testa verso terra per permetterne la totale fatal decapitazione."
+      },
+      "bankai": {
+        "name": "Non Ottenuto",
+        "image": "assets/zanpakuto/wabisuke_bankai.jpg",
+        "command": "Nessuno",
+        "description": "Izuru non padroneggia attivamente il Bankai essendo un Luogotenente devoto, la sua utilità brutale difensivo-offensiva sta tutta in Wabisuke."
+      }
+    },
+    {
+      "id": "kazeshini",
+      "name": "Kazeshini",
+      "owner": "Shūhei Hisagi",
+      "shikai": {
+        "image": "assets/zanpakuto/kazeshini_shikai.jpg",
+        "command": "Mieti",
+        "description": "Due letali falci rotanti collegate da una lunga catena inafferrabile lanciabile ruotante tagliente selvaggia caotica formidabile a mulinello imprevedibile e crudele che recide ogni rotta ed ogni angolazione impensata senza onore marziale e puro sapore di sanguinosa paura."
+      },
+      "bankai": {
+        "name": "Fushi no Kōjyō",
+        "image": "assets/zanpakuto/kazeshini_bankai.jpg",
+        "command": "Bankai, Fushi no Kōjyō",
+        "description": "Incatena letteralmente utopicamente infallibilmente se stesso ed il bersaglio ad una immensa spirale incatenata orbitale, drenando reciprocamente e perennemente le loro Reiatsu ferite in un ciclo che rigenera e dilacera portando allo sfiancamento indiscusso ad armi ed energia vitale pari."
+      }
+    },
+    {
+      "id": "tenken",
+      "name": "Tenken",
+      "owner": "Sajin Komamura",
+      "shikai": {
+        "image": "assets/zanpakuto/tenken_shikai.jpg",
+        "command": "Ruggisci",
+        "description": "Evoca le braccia colossali armate spirituali sincronizzate specularmente ad ogni movimento per assesta colpi mastodonticamente d'acciaio pesanti distruttivi e schiaccianti contro orde o giganti nemici letali massicci letali e divelti incrollabili incrollabili devoti."
+      },
+      "bankai": {
+        "name": "Kokujō Tengen Myō'ō",
+        "image": "assets/zanpakuto/tenken_bankai.jpg",
+        "command": "Bankai!",
+        "description": "Il Gigante Intero fiammante corazzato appare imponente formidabile inumano letale indistruttibile e legato all'anima del capitano stesso; nella sua ultima forma spietata 'Dangai Joue' rigetta ogni corazza di ferro esplosiva mostrando sembianze da demone scheletrico reietto ed immortale senza cordoglio al prezzo del sacrificio temporaneo letale."
+      }
+    },
+    {
+      "id": "sogyo",
+      "name": "Sōgyo no Kotowari",
+      "owner": "Jūshirō Ukitake",
+      "shikai": {
+        "image": "assets/zanpakuto/sogyo_shikai.jpg",
+        "command": "Le Onde diventano il mio Scudo...",
+        "description": "Lame Gemelle collegate da un cordone cremisi con cinque talismani letali formidabili magici. Assorbono qualsiasi attacco energetico Kido in ingresso su una lama o sull'altra per risputarlo dalla controparte ma amplificato ed alterato irriconoscibilmente in tempo direzionale letale infallibile letale infallibile invulnerabile ed istantaneo letale e letale."
+      },
+      "bankai": {
+        "name": "Sconosciuto",
+        "image": "assets/zanpakuto/sogyo_bankai.jpg",
+        "command": "Sconosciuto",
+        "description": "Purtroppo rimasto occultato agli archivi del cielo eterno."
+      }
+    },
+    {
+      "id": "hozukimaru",
+      "name": "Hōzukimaru",
+      "owner": "Ikkaku Madarame",
+      "shikai": {
+        "image": "assets/zanpakuto/hozukimaru_shikai.jpg",
+        "command": "Estenditi",
+        "description": "Un robusto fodero in legno che si estende in una fendente e rapidissima lancia yari ad arma in asta divisibile in sezioni letali smussate contundenti improvvise che incalzano irrispettosamente ignoranti ed irruente ferocemente per ingannare ogni calcolo e distanza letale letale."
+      },
+      "bankai": {
+        "name": "Ryūmon Hōzukimaru",
+        "image": "assets/zanpakuto/hozukimaru_bankai.jpg",
+        "command": "Bankai!",
+        "description": "Tre gigantesche pale affilatissime letali pesanti ed irruente sostenute a filo spinato; il Bankai necessita impigrita ed ignorante rozza devozione letale d'esser 'svegliato' riscaldandolo nello scontro cruento risvegliando il colore cremino di una cresta di drago primordiale affamata letale assurdamente inafferabile."
+      }
+    },
+    {
+      "id": "ruriiro",
+      "name": "Ruri'iro Kujaku",
+      "owner": "Yumichika Ayasegawa",
+      "shikai": {
+        "image": "assets/zanpakuto/ruriiro_shikai.jpg",
+        "command": "Fendi / Dividi (Vera forma: Avvinghiati)",
+        "description": "Sotto falso nome in falcetto 'Fuji Kujaku' si camuffa maldestramente goffo per restare anonimo, ma colsuo nome divino reale esplode in boccioli e liane ederedi vampiriche capaci d'avvinghiare divorando ingordamente implacabilmente ogni oncia spiritronica del possessore nutrendolo insaporitamente letale ed orgoglioso letale divinamente bello indomabile."
+      },
+      "bankai": {
+        "name": "Non Ottenuto",
+        "image": "assets/zanpakuto/ruriiro_bankai.jpg",
+        "command": "Nessuno",
+        "description": "Solo il Shikai divino è attualmente noto."
+      }
+    },
+    {
+      "id": "tobiume",
+      "name": "Tobiume",
+      "owner": "Momo Hinamori",
+      "shikai": {
+        "image": "assets/zanpakuto/tobiume_shikai.jpg",
+        "command": "Esplodi",
+        "description": "Una spada dritta a sette ramificazioni capace di condensare Kido a raffica sparando saette esplosive di fuoco concentrate ad incrocio sfuggente rapida veloce flessibile impalpabile ingannevole e sorprendentemente diabolica letale ignea divinamente devota ingenua disastrosa infame ardente sfiancante."
+      },
+      "bankai": {
+        "name": "Non Ottenuto",
+        "image": "assets/zanpakuto/tobiume_bankai.jpg",
+        "command": "Nessuno",
+        "description": "Il Luogotenente usa abilissime combinazioni di reticoli Kido a rete ragnatela infuocati insperati."
+      }
+    },
+    {
+      "id": "santa-teresa",
+      "name": "Santa Teresa",
+      "owner": "Nnoitra Gilga",
+      "shikai": {
+        "image": "assets/zanpakuto/santa-teresa_shikai.jpg",
+        "command": "Forma Base",
+        "description": "Un'ascia alabarda doppia gigantesca crescentemente mezza falce brutale letale possente formidabilmente insormontabile contundente che incrocia l'ignoranza letale ad una difesa ferrea ed irremovibile colossale letale disumana scagliando e tranciando senza tecnica né decoro alcuno, solo disperazione letale spietata spietata e rozza crudeltà tagliente."
+      },
+      "bankai": {
+        "name": "Resurrección: Santa Teresa",
+        "image": "assets/zanpakuto/santa-teresa_bankai.jpg",
+        "command": "Prega, Santa Teresa!",
+        "description": "Un insettoide orribilmente dorato letale irrobustito da corazze impenetrabili a sei arti letali formidabili capaci di rigenerare le ferite falcianti immediatamente innumerevoli pugnali d'osso letali contundenti invincibili letali affranti velenosi taglienti estrosi distruttivi spietati impenitenti senza sosta violenti scattanti letali immancabili e devastanti ed arroganti colossali."
+      }
+    },
+    {
+      "id": "tiburon",
+      "name": "Tiburón",
+      "owner": "Tia Harribel",
+      "shikai": {
+        "image": "assets/zanpakuto/tiburon_shikai.jpg",
+        "command": "Forma Base",
+        "description": "Lama vuota e squadrata assai densa inesplicabilmente legata alla manipolazione a densità d'acqua scagliando attacchi proiettile di pura ed ingente ondata d'urto letale a cascata fluida ed affilata rapida colossale scattante decisa indissolubile imperterrita e calma impetuosa materna sfuggente celestiale."
+      },
+      "bankai": {
+        "name": "Resurrección: Tiburón",
+        "image": "assets/zanpakuto/tiburon_bankai.jpg",
+        "command": "Attacca!",
+        "description": "Squalo d'acqua e lami ossee fiammanti. Domina i torrenti vorticosi marini in oceani celesti termali a pressione d'iperbolica e squarciante fendente acquatico inarrestabile letale che distrugge palazzi al solo suo passaggio termico affranto."
+      }
+    },
+    {
+      "id": "glotoneria",
+      "name": "Glotonería",
+      "owner": "Aaroniero Arruruerie",
+      "shikai": {
+        "image": "assets/zanpakuto/glotoneria_shikai.jpg",
+        "command": "Forma Base",
+        "description": "Nasconde il volto e camuffa la sua debole spiritualità da Gillian rubando il potere, asse di ricordi, memorie tragiche e spade letali da coloro che a tradimento o dispiacere spietato assorbe subdolamente (come Kaien Shiba Nejibana fluida tragica inerme rancorosa colpevole ingannatrice spietatamente vile codardo viscida mortale)."
+      },
+      "bankai": {
+        "name": "Resurrección: Glotonería",
+        "image": "assets/zanpakuto/glotoneria_bankai.jpg",
+        "command": "Divora",
+        "description": "La parte inferiore del suo corpo muta repentinamente in un abominevole ed insaziabile viscidissima poltiglia amorfa letale abissale colosalle di tentacoli fangosi ingordi contenenti fusi e urlanti le urla, disperazioni e fatali brutture innumerevoli mostri ed hollow tragici ingoiati formidabilmente putrescenti macabri mostruosi ripugnanti asettici maleodoranti letali enormi putrescenti infermabili fango letale tossico putrido aspro disgustoso ed ingannevole."
+      }
+    },
+    {
+      "id": "fornicaras",
+      "name": "Fornicarás",
+      "owner": "Szayelaporro Granz",
+      "shikai": {
+        "image": "assets/zanpakuto/fornicaras_shikai.jpg",
+        "command": "Forma Base",
+        "description": "Arma da taglio tipica, poco sfoderata ma supportata da marchingegni tecno-hollow geniali veloci tattici illusionistici prevaricanti distruttori esitanti scientifici e crudeli metodici anestetizzanti ed invalidanti tossici avvelenati e preparati con letale cura spietata gelida ingegneristica maniacale psicotica perfetta fatale arrogante ed assillante asfissiante letale calcolatrice perfetta impareggiabile superiore divina."
+      },
+      "bankai": {
+        "name": "Resurrección: Fornicarás",
+        "image": "assets/zanpakuto/fornicaras_bankai.jpg",
+        "command": "Sorseggia",
+        "description": "Sfoggia ali di filamenti sanguigni ed innumerevoli sacche ovariche aliene letali velenose. Trasforma in macabre bamboline voodoo le sue vittime clonandole passivamente assecondandone i movimenti e rompendo loro scientificamente ed assurdamente in tempo reale o organi interni o tendini distruttivi letali ingloriosi impotenti ineluttabili spaventosi infernali terminali dolci amari e tragicamente diabolici senza alcun scampo e senza mai mai mai via di fuga impari incontrastabili totali e spietati infallibili oscenità chirurgiche fatali mostruosamente sadici letali."
+      }
+    },
+    {
+      "id": "almighty",
+      "name": "Reishi Broadsword & Medallion",
+      "owner": "Yhwach",
+      "shikai": {
+        "image": "assets/zanpakuto/almighty_shikai.jpg",
+        "command": "Schrift: A - The Almighty",
+        "description": "L'arma base di Yhwach è una possente e letale spada di Reishi scura. La sua vera abilità The Almighty gli consente di precognizzare e alterare letteralmente qualsiasi istante temporale futuro a suo piacimento assoluto distruttivo ed irreparabile dominando la disperazione letale incrollabile assoluta totalitaria ed asfissiante tremenda inesorabile immensa divina onnipotente schiacciante."
+      },
+      "bankai": {
+        "name": "Assimilazione Reale",
+        "image": "assets/zanpakuto/almighty_bankai.jpg",
+        "command": "Assorbi",
+        "description": "Piuttosto che un Vollständig convenzionale, Yhwach si fonde col Re Spirito ottenendo innumerevoli tremendi letali invincibili colossali insormontabili occhi d'oscurità ed una coltre abissale immensa tangibile spietata ombrosa celatamente diabolica."
+      }
+    },
+    {
+      "id": "balance",
+      "name": "Broadsword",
+      "owner": "Jugram Haschwalth",
+      "shikai": {
+        "image": "assets/zanpakuto/balance_shikai.jpg",
+        "command": "Schrift: B - The Balance",
+        "description": "Un letale classico scudo e spadone colossale puro bilanciato fendente devoto. Il suo Schrift dirotta a suo avviso letalmente avverso e letalmente bilanciato la 'Sfortuna' avversaria invertendola o infierendo danni riflessivi raddoppiandoli sul nemico istantaneamente imperterrito regale indiscusso freddo scialbo mortale letale disarmante regius fedele colossale fatale."
+      },
+      "bankai": {
+        "name": "Sconosciuto",
+        "image": "assets/zanpakuto/balance_bankai.jpg",
+        "command": "Nessuno",
+        "description": "Il Grandmaster the Balance non ha mai necessità fiera ed indissolubile ineluttabile di sfoggiare la forma Vollständig data la sua assoluta letalità mortale spietata regale."
+      }
+    },
+    {
+      "id": "deathdealing",
+      "name": "Arco di Reishi",
+      "owner": "Askin Nakk Le Vaar",
+      "shikai": {
+        "image": "assets/zanpakuto/deathdealing_shikai.jpg",
+        "command": "Schrift: D - The Deathdealing",
+        "description": "Un'arma semplice per nascondere il suo temibile calcolo di letalità. Regola e manipola microscopicamente a piacimento letale geniale il dosaggio tossico e le difese immunitarie di sangue o reiatsu del malcapitato tramutando una goccia nel più invalidante collassante avvelenato disumano intossicante mortifero fatale sadismo logico inesorabile ed asfissiante infallibile letale."
+      },
+      "bankai": {
+        "name": "Vollständig: Hasshein",
+        "image": "assets/zanpakuto/deathdealing_bankai.jpg",
+        "command": "Rilascia, Hasshein!",
+        "description": "Sfoggia ali di molecole virali ed acquisisce infallibilmente totale diabolica immediata letale ed istintiva immunità letale assoluta ad ogni singolo tipo letale d'elemento spirituale con cui entra in letale asfissiante viscidamente letale contatto annullatore devastante e sprezzante."
+      }
+    },
+    {
+      "id": "explode",
+      "name": "Sciabola",
+      "owner": "Bambietta Basterbine",
+      "shikai": {
+        "image": "assets/zanpakuto/explode_shikai.jpg",
+        "command": "Schrift: E - The Explode",
+        "description": "La sua spada converte brutalmente letalmente subitamente immediatamente istantaneamente impietosamente spietatamente distruttivamente catastroficamente ogni singola reishi particella colpita disumanamente violenta impetuosa sadica rabbiosamente deflagrante letale letale. Non lancia bombe, trasforma ciò che tocca IN bombe incendiarie."
+      },
+      "bankai": {
+        "name": "Vollständig",
+        "image": "assets/zanpakuto/explode_bankai.jpg",
+        "command": "Rilascia",
+        "description": "Dalle ali bombardiere scatena incessantemente piogge letali d'assurda letalità e distruzione di sfere esplosive sterminanti sadiche infuocate folli a tappeto diabolico incenerente spietato apocalittico annichilente brutale colossale senza pietà assordante fatale."
+      }
+    },
+    {
+      "id": "x-axis",
+      "name": "Diagram",
+      "owner": "Lille Barro",
+      "shikai": {
+        "image": "assets/zanpakuto/x-axis_shikai.jpg",
+        "command": "Schrift: X - The X-Axis",
+        "description": "Un letale fucile da cecchino incallito infallibile imperterrito spietatamente silente infallibile che non spara affatto proiettili mortali ma letalmente cancella ed omette o oblitera irreversibilmente istantaneamente tutto lo spazio letalmente perforabile tra la canna ed il bersaglio mortale indistruttibile insormontabile assoluto chirurgicamente inenarrabile fatale spaventoso e fendente."
+      },
+      "bankai": {
+        "name": "Vollständig: Jilliel",
+        "image": "assets/zanpakuto/x-axis_bankai.jpg",
+        "command": "Jilliel",
+        "description": "Si trasforma in un cherubino mostruoso letalmente intoccabile divino imperterrito immune da attacchi materiali fisici, in un tripudio ineffabile d'ali celesti letali perforazioni cosmiche luminose radianti mortali onniscienti terrificanti sadicamente apocalittiche divine e teletrasporto insormontabile sfuggente immortale colossale piumato di luce insensata pura ineluttabilmente colpevole spietata letale annientatrice folgorante letale asfissiante fatale letale fiammante."
+      }
+    },
+    {
+      "id": "gonryomaru",
+      "name": "Gonryōmaru",
+      "owner": "Chōjirō Sasakibe",
+      "shikai": {
+        "image": "assets/zanpakuto/gonryomaru_shikai.jpg",
+        "command": "Infilza",
+        "description": "Lama simile ad un fioretto capace di scagliare fendenti fulminei, incrociati con saette taglienti. Si rivela un rapier rapido, letale ed elegantemente fedele che controlla elettroni fulminanti letali ad alta spietatezza formidabile assai rapida abbagliante folgorante dritto colpevole implacabile fendente impellente."
+      },
+      "bankai": {
+        "name": "Kōkō Gonryō Rikyū",
+        "image": "assets/zanpakuto/gonryomaru_bankai.jpg",
+        "command": "Bankai, Kōkō Gonryō Rikyū!",
+        "description": "Un mantello letalmente letalmente maestoso di potentissimo devastante incandescente incandescente brutale ed abbacinante abbagliante folgorante immenso tempestoso nubifragio di letali dardi e cupole elettriche scaricate potentissime formidabili a livello uragano mortifero imperdibile da nuvole cariche tempesta furiosa e pioggia ardente letale onnipresente d'insormontabile calore devastante inaudito formidabile incandescente spietatamente devoto leale asfissiante sfiancante immortale ed impuro apocalittico raggio elettrico in contrasto col pallido fulmine letale."
+      }
+    },
+    {
+      "id": "gegetsuburi",
+      "name": "Gegetsuburi",
+      "owner": "Marechiyo Ōmaeda",
+      "shikai": {
+        "image": "assets/zanpakuto/gegetsuburi_shikai.jpg",
+        "command": "Schiaccia",
+        "description": "Lama a sfera chiodata gigante ed estremamente appuntita collegata a catena. Un'arma ingombrante contundente ignorante irruenta ma sorprendentemente rapida se lanciata abilmente furtivamente colposamente con destrezza pesante ingloriosa infame tagliente dirotta letale impenitente colossale ingannevole massiccia."
+      },
+      "bankai": {
+        "name": "Non Ottenuto",
+        "image": "assets/zanpakuto/gegetsuburi_bankai.jpg",
+        "command": "Nessuno",
+        "description": "Non è in grado di rilasciare il Bankai finora."
+      }
+    },
+    {
+      "id": "itegumo",
+      "name": "Itegumo",
+      "owner": "Isane Kotetsu",
+      "shikai": {
+        "image": "assets/zanpakuto/itegumo_shikai.jpg",
+        "command": "Corri Via",
+        "description": "Divisa con tre punte divergenti asimmetriche frontali a spina. Arma orientata a difendersi intrappolando le armi da mischia in sfuggenti angolazioni freddamente affilate diaboliche distensive sfuggenti celestiali caute eleganti sfiancanti chirurgiche prevaricanti veloci letali ed estrose abbaglianti fedeli incrociate immancabili repentine taglienti letali taglienti."
+      },
+      "bankai": {
+        "name": "Non Ottenuto",
+        "image": "assets/zanpakuto/itegumo_bankai.jpg",
+        "command": "Nessuno",
+        "description": "Il suo utilizzo clinico Kaido surclassa la necessità offensiva del Bankai assente in lei."
+      }
+    },
+    {
+      "id": "shinken",
+      "name": "Shinken Hakkyōken",
+      "owner": "Nanao Ise",
+      "shikai": {
+        "image": "assets/zanpakuto/shinken_shikai.jpg",
+        "command": "Nessuno (Specchio Divino)",
+        "description": "Un'antica spada sacra sprovvista di lama offensiva ereditata da famiglia Ise che riflette letalmente inalienabilmente divinamente ed assorbe specularmente infallibilmente ed ingolosamente inesorabilmente gli immensi ed asfissianti poteri o magie divine Kido rispedendoli apocalitticamente agli dei stessi spietatamente infallibilmente formidabilmente incrollabilmente celatamente implacabilmente divina fendeva colossale onnisciente."
+      },
+      "bankai": {
+        "name": "Assente",
+        "image": "assets/zanpakuto/shinken_bankai.jpg",
+        "command": "Nessuno",
+        "description": "Essendo un manufatto mitologico divino, sfugge alle logiche di Bankai e Shikai puramente standard Shinigami."
+      }
+    },
+    {
+      "id": "giralda",
+      "name": "Giralda",
+      "owner": "Dordoni",
+      "shikai": {
+        "image": "assets/zanpakuto/giralda_shikai.jpg",
+        "command": "Forma Base",
+        "description": "Spada bastone Arrancar. Molto elegante."
+      },
+      "bankai": {
+        "name": "Resurrecciòn: Giralda",
+        "image": "assets/zanpakuto/giralda_bankai.jpg",
+        "command": "Gira!",
+        "description": "Trasforma le gambe in colossali stivali di tornado cicloni letali vorticosi d'aria solida contundente capaci di disintegrare massi ed acciaio."
+      }
+    },
+    {
+      "id": "cierva",
+      "name": "Cierva",
+      "owner": "Emilou Apacci",
+      "shikai": {
+        "image": "assets/zanpakuto/cierva_shikai.jpg",
+        "command": "Forma Base",
+        "description": "Bracciali muniti d'anelli letali estrosi."
+      },
+      "bankai": {
+        "name": "Resurrecciòn: Cierva",
+        "image": "assets/zanpakuto/cierva_bankai.jpg",
+        "command": "Infilza",
+        "description": "Una veste di pelle ferrea armata, veloce contundente scattante rapace e mortifera. Può sacrificare il braccio con i compagni per evocare Ayon, la viverna bestiale apocalittica inarrestabile."
+      }
+    },
+    {
+      "id": "haineko",
+      "name": "Haineko",
+      "owner": "Rangiku Matsumoto",
+      "shikai": {
+        "image": "assets/zanpakuto/haineko_shikai.jpg",
+        "command": "Ringhia",
+        "description": "La lama si scompone disperdendosi nell'aria come polvere o cenere invisibile fatale acuta e scattante. Rangiku usa il pomello per scatenare graffi multipli letali contundenti di cenere ferrea affilata da ogni direzione disperdendo nemici a stormi interi infami."
+      },
+      "bankai": {
+        "name": "Non Ottenuto",
+        "image": "assets/zanpakuto/haineko_bankai.jpg",
+        "command": "Nessuno",
+        "description": "Rangiku confida nella versatilità del suo Shikai."
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+Reishi Broadsword & Medallion:
+ -> Shikai: almighty_shikai.jpg
+ -> Bankai/Rilascio: almighty_bankai.jpg
+
+Broadsword:
+ -> Shikai: balance_shikai.jpg
+ -> Bankai/Rilascio: balance_bankai.jpg
+
+Arco di Reishi:
+ -> Shikai: deathdealing_shikai.jpg
+ -> Bankai/Rilascio: deathdealing_bankai.jpg
+
+Sciabola:
+ -> Shikai: explode_shikai.jpg
+ -> Bankai/Rilascio: explode_bankai.jpg
+
+Diagram:
+ -> Shikai: x-axis_shikai.jpg
+ -> Bankai/Rilascio: x-axis_bankai.jpg
+
+Gonryōmaru:
+ -> Shikai: gonryomaru_shikai.jpg
+ -> Bankai/Rilascio: gonryomaru_bankai.jpg
+
+Gegetsuburi:
+ -> Shikai: gegetsuburi_shikai.jpg
+ -> Bankai/Rilascio: gegetsuburi_bankai.jpg
+
+Itegumo:
+ -> Shikai: itegumo_shikai.jpg
+ -> Bankai/Rilascio: itegumo_bankai.jpg
+
+Shinken Hakkyōken:
+ -> Shikai: shinken_shikai.jpg
+ -> Bankai/Rilascio: shinken_bankai.jpg
+
+Giralda:
+ -> Shikai: giralda_shikai.jpg
+ -> Bankai/Rilascio: giralda_bankai.jpg
+
+Cierva:
+ -> Shikai: cierva_shikai.jpg
+ -> Bankai/Rilascio: cierva_bankai.jpg
+
+Haineko:
+ -> Shikai: haineko_shikai.jpg
+ -> Bankai/Rilascio: haineko_bankai.jpg
