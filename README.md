@@ -5,7 +5,7 @@
 
 ## ✨ Funzionalità Principali
 
-### 📊 Archivi della Seireitei (Dashboard Personaggi)
+### 📊 Archivi della Seireitei
 * **Profili Completi:** Consulta affiliazioni storiche, nomi delle singole Zanpakuto e l'arsenale intero di tecniche e Kido associate a oltre 60 personaggi canonici, dagli Shinigami ai Quincy ed Arrancar.
 * **Layout Interattivo:** Griglie esplorative dal design oscuro ("Deep Night"), modellate con effetti blur e bordi in vetro fuso (Glassmorphism). 
 
@@ -13,7 +13,7 @@
 * Immagini ad Altissima Definizione delle forme base, Shikai, Bankai (o Resurrección) recuperate tramite algoritmi automatizzati che evitano placeholder IA scadenti in favore degli originali anime/manga ufficiali.
 * **Interactive Switch:** Premi l'interruttore sull'UI per assistere alla transizione istantanea dell'animazione tra la forma "Shikai" della spada e il suo rispettivo "Rilascio/Bankai" per decine di capitani e nemici mortali!
 
-### ⏳ Linea Temporale Storica (Timeline)
+### ⏳ Linea Temporale Storica 
 * **Chronicle Logs:** Esplora gli eventi cruciali del mondo di Bleach filtrandoli per epoche ("Il Passato", "Il Presente", "Il Futuro/Guerra Millenaria").
 
 ---
